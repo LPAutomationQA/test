@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the PM doesn't have access to invoices belonging to other.</description>
+   <name>TC_Accounting_17_Project Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c813474f-bbe2-4761-a8ef-55f315bd9c3a</testCaseGuid>
+</TestCaseEntity>

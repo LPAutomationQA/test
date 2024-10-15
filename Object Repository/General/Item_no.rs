@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Item_no</name>
+   <tag></tag>
+   <elementGuidId>c1e4b118-dd75-4247-b1e7-fc7d2dcac230</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.breadcrumb-item.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ol/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0d23c047-08d8-4d03-9040-c6f3b49c1d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb-item active</value>
+      <webElementGuid>9eef90ec-3ea8-44a2-a916-6be6d9e9eeec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S00155</value>
+      <webElementGuid>7b38012f-9f8b-4774-b244-d625556e2cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_control_panel&quot;]/div[@class=&quot;o_cp_top&quot;]/div[@class=&quot;o_cp_top_left&quot;]/ol[@class=&quot;breadcrumb&quot;]/li[@class=&quot;breadcrumb-item active&quot;]</value>
+      <webElementGuid>19a4a12c-4f7c-4445-8293-8025e0c57594</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'o_field_input_885', '&quot;', ')/span[1]')])[1]/following::li[2]</value>
+      <webElementGuid>25f28131-be46-4fc5-b4ee-625e2774da75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[2]</value>
+      <webElementGuid>e13b3450-7b05-405f-a723-e0a719e37ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::li[1]</value>
+      <webElementGuid>4c82124f-3ffb-4b28-9943-d0582562039b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::li[1]</value>
+      <webElementGuid>7f8519c1-d186-4d6a-918e-ca2c85fd1097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='S00155']/parent::*</value>
+      <webElementGuid>64071b3e-3613-49d0-9624-2103c2ac9fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[2]</value>
+      <webElementGuid>773ee9b2-afb5-4c45-bc82-cb89995ffa24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'S00155' or . = 'S00155')]</value>
+      <webElementGuid>474f06a0-a61d-49cb-a306-9a9c3e7a964e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

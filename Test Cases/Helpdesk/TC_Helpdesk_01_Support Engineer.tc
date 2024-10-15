@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Support Engineer can view all tickets.</description>
+   <name>TC_Helpdesk_01_Support Engineer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d47131f5-cef2-4dea-8108-7df27ff89202</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Accounting Officer role doesn’t have access to help desk module</description>
+   <name>TC_Sales_17_Basic Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0d64b10-e400-4977-81bb-74c7c0b01b8a</testCaseGuid>
+</TestCaseEntity>

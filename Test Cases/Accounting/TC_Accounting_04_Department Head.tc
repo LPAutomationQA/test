@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Department Head can view bills.</description>
+   <name>TC_Accounting_04_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ceb9b7db-f6b4-4b40-b058-923dfee80a4e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Support Engineer doesn’t have access to Recruitment</description>
+   <name>TC_Recruitment_01_Support Engineer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c021875-bb9e-42fc-b9de-a77d907628b6</testCaseGuid>
+</TestCaseEntity>

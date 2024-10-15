@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the SH doesn’t have access to Recruitment</description>
+   <name>TC_Recruitment_01_SH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfb84e22-1172-4cc1-b124-bd3a94f72fd4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the HR Mange can edit Surveys</description>
+   <name>TC_Surveys_04_HR Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db91cd6f-2fa4-4105-9b01-22ccbbf557ef</testCaseGuid>
+</TestCaseEntity>

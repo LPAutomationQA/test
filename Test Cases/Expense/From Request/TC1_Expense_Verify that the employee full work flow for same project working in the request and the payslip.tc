@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Expense_Verify that the employee full work flow for same project working in the request and the payslip</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4364c042-377d-4a61-9982-09045ef29839</testCaseGuid>
+</TestCaseEntity>

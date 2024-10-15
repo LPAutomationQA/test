@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Loans_Verify that the Director full work flow working in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4ec5827-acda-4849-bb9b-4feb0dd2950c</testCaseGuid>
+</TestCaseEntity>

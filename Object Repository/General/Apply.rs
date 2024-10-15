@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Apply</name>
+   <tag></tag>
+   <elementGuidId>ec97b475-9daf-49c5-8922-c038e16d6bb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Apply' or . = 'Apply')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.o_apply_group_by</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cd6550aa-9d2a-40e1-9e01-2a41fae76fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b15f88b7-e0fc-492b-a148-87501bbeb2a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary o_apply_group_by</value>
+      <webElementGuid>e248c74c-8148-4f2c-9596-aaae36e9a934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply</value>
+      <webElementGuid>f8169534-622f-4661-9957-f5fd90a55ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_cannot_create o_view_controller&quot;]/div[@class=&quot;o_control_panel&quot;]/div[@class=&quot;o_cp_bottom&quot;]/div[@class=&quot;o_cp_bottom_right&quot;]/div[@class=&quot;btn-group o_search_options position-static&quot;]/div[@class=&quot;btn-group o_dropdown o_group_by_menu show&quot;]/ul[@class=&quot;o_dropdown_menu dropdown-menu show&quot;]/div[@class=&quot;o_generator_menu&quot;]/div[@class=&quot;o_add_group_by_menu dropdown-item-text&quot;]/button[@class=&quot;btn btn-primary o_apply_group_by&quot;]</value>
+      <webElementGuid>7656fcd9-9058-47f6-826a-ead92dfb21a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[28]</value>
+      <webElementGuid>544a9cf6-a7d0-4666-87ac-48e03bc7c6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Custom Group'])[1]/following::button[1]</value>
+      <webElementGuid>e8079a42-ff00-4e67-bf54-0cb5c7801083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group By'])[1]/following::button[2]</value>
+      <webElementGuid>8549216f-b2fb-4b29-8190-07a9e5d77c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorites'])[2]/preceding::button[1]</value>
+      <webElementGuid>c5341722-1e59-4fe8-9618-ef79bd0d997a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::button[2]</value>
+      <webElementGuid>fde1efc3-40c7-4702-946c-8625d76b968b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply']/parent::*</value>
+      <webElementGuid>52997971-318c-4163-8780-032177213744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div[2]/button</value>
+      <webElementGuid>d473eb48-2b45-43ac-b60e-62d788dc014f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Apply' or . = 'Apply')]</value>
+      <webElementGuid>1205e9f9-4e3f-44fe-b30a-c0512d06de86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

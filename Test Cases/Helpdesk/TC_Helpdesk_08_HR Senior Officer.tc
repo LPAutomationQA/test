@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Accounting Officer role doesn’t have access to help desk module</description>
+   <name>TC_Helpdesk_08_HR Senior Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f88c583e-f882-4e70-a31e-3dfae064f957</testCaseGuid>
+</TestCaseEntity>

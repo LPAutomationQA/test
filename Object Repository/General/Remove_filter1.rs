@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Remove_filter1</name>
+   <tag></tag>
+   <elementGuidId>b1b040dd-14c2-45ce-a3d1-68b11491a457</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@title = 'Remove']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-sm.fa-remove.o_facet_remove</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>262f52ad-93e5-4bde-84d4-d8ac0dc8889d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7b38f3e9-e577-41c0-ab30-7a6cf4ae3a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>8030607e-65f3-4e03-b81b-77e8d406d0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>4260bdac-c34b-4638-9ef5-a4771d12cb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-sm fa-remove o_facet_remove</value>
+      <webElementGuid>993bc905-8843-4a2d-a9d3-767429e15294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_control_panel&quot;]/div[@class=&quot;o_cp_top&quot;]/div[@class=&quot;o_cp_top_right&quot;]/div[@class=&quot;o_cp_searchview&quot;]/div[@class=&quot;o_searchview&quot;]/div[@class=&quot;o_searchview_input_container&quot;]/div[@class=&quot;o_searchview_facet&quot;]/i[@class=&quot;fa fa-sm fa-remove o_facet_remove&quot;]</value>
+      <webElementGuid>86d3b6e6-1b70-4ec5-9801-f00bdd9fb6e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/i</value>
+      <webElementGuid>a587ef16-fde0-4dc4-b5f2-15311ae30793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Remove']</value>
+      <webElementGuid>c3aae88f-5f54-450a-8ca8-d4224f178028</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

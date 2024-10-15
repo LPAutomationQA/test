@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Available on Appraisal_checkbox</name>
+   <tag></tag>
+   <elementGuidId>61d23f8c-a9ee-4e9d-9341-04514e53da56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.custom-control-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@name=&quot;lp_available_on_appraisal&quot;]//input[@type=&quot;checkbox&quot;]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ac180fd3-f2ca-417c-8d11-7f2f0d646cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>o_field_input_1750</value>
+      <webElementGuid>6025b755-cfb0-4db8-ad9a-c0bf91d0fc42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>32f23b83-1a2b-4004-bb48-95259c74337c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​</value>
+      <webElementGuid>9716cf9d-ee7b-457f-8bb8-de641866c6c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_view o_xxl_form_view o_survey_form o_form_editable&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;clearfix position-relative o_form_sheet&quot;]/div[@class=&quot;o_group&quot;]/table[@class=&quot;o_group o_inner_group o_group_col_6&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;custom-control custom-checkbox o_field_boolean o_field_widget&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>fba8a7d1-ea30-4a18-9dae-5a78ac7193be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available on Appraisal'])[1]/following::label[1]</value>
+      <webElementGuid>14f8c285-79fd-4498-95ca-0011589c83a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Title'])[1]/following::label[2]</value>
+      <webElementGuid>516fadc8-0651-49a0-b494-236dd7a98cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Position'])[1]/preceding::label[1]</value>
+      <webElementGuid>f5daed0e-1c91-43a6-9066-9695ef2a39eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions'])[1]/preceding::label[2]</value>
+      <webElementGuid>fd410d06-71d7-43f1-94ae-a52b60cb1ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='​']/parent::*</value>
+      <webElementGuid>f8f299b9-fa01-4a5f-820b-56a237042a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/label</value>
+      <webElementGuid>18bbb1b1-edc3-4103-8821-d251488cb844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '​' or . = '​')]</value>
+      <webElementGuid>95d83bb3-9a92-4918-818a-bab639b950e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

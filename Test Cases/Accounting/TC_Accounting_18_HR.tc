@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that HR doesn't have access to the Accounting module.</description>
+   <name>TC_Accounting_18_HR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e130c4e-1b4b-4fd9-a7fc-8dc11d28b585</testCaseGuid>
+</TestCaseEntity>

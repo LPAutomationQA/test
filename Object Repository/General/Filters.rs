@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filters</name>
+   <tag></tag>
+   <elementGuidId>2bbf6712-84a5-4244-9fe6-075274cd6acd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.o_dropdown_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[normalize-space(text())='Filters']
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2c9f0d8-ec48-484b-996b-d02f4d6f7b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_dropdown_title</value>
+      <webElementGuid>8b50dc56-51e9-4ee1-9709-e8998a42e790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filters</value>
+      <webElementGuid>64c8f4c6-5e69-4c25-98c4-f110c6f2f677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_cannot_create o_view_controller&quot;]/div[@class=&quot;o_control_panel&quot;]/div[@class=&quot;o_cp_bottom&quot;]/div[@class=&quot;o_cp_bottom_right&quot;]/div[@class=&quot;btn-group o_search_options position-static&quot;]/div[@class=&quot;btn-group o_dropdown o_filter_menu&quot;]/button[@class=&quot;o_dropdown_toggler_btn btn btn-secondary&quot;]/span[@class=&quot;o_dropdown_title&quot;]</value>
+      <webElementGuid>bdb1b688-8529-41a6-8a6f-0ca3ac0c19fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorites'])[1]/following::span[1]</value>
+      <webElementGuid>84517507-d20c-4c7e-b371-b70f99e17967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounting Dashboard'])[1]/following::span[3]</value>
+      <webElementGuid>0ac0d9e3-ea58-4db4-8d2d-848a255f4995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group By'])[1]/preceding::span[1]</value>
+      <webElementGuid>04b5c32f-3cac-43fe-8b9f-790c91b8a900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorites'])[2]/preceding::span[2]</value>
+      <webElementGuid>48969c00-396b-4dd3-8042-78c09f1a108e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filters']/parent::*</value>
+      <webElementGuid>9aab8a20-48d6-4fef-914e-51ac0510a975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>adbd8710-fa7d-4ae8-8530-549f82f58a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Filters' or . = 'Filters')]</value>
+      <webElementGuid>517d461c-44e5-4a30-9160-1852d7df260d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

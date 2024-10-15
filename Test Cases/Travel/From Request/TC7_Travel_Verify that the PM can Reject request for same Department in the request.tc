@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7_Travel_Verify that the PM can Reject request for same Department in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae1ecd44-1955-479c-b28d-c07ed16d8f67</testCaseGuid>
+</TestCaseEntity>

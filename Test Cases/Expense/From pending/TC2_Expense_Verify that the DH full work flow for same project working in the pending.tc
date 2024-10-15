@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Expense_Verify that the DH full work flow for same project working in the pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb1c54de-eb7c-4e6f-a192-a970c46350ce</testCaseGuid>
+</TestCaseEntity>

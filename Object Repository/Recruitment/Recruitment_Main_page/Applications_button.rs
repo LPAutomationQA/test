@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Applications_button</name>
+   <tag></tag>
+   <elementGuidId>0ad3e7b7-1226-48cc-ae4e-3c64145bae40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Description'])[1]/preceding::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.oe_kanban_action.oe_kanban_action_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>26aabab3-6bb6-4eb0-a26b-3ed0b1543a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary oe_kanban_action oe_kanban_action_button</value>
+      <webElementGuid>27a73c50-b868-471b-8d7a-7f0ea52ed1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>modifiers</name>
+      <type>Main</type>
+      <value>{}</value>
+      <webElementGuid>1d530db0-5099-49c5-bc96-c11a6294af0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>options</name>
+      <type>Main</type>
+      <value>{}</value>
+      <webElementGuid>9c913ac2-c1bb-4bdc-b21e-b7c256616287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>1285</value>
+      <webElementGuid>6bba8959-1ce9-4f4e-bfcf-f962fd204a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>action</value>
+      <webElementGuid>8b007898-4717-4f1f-9969-36847e9e4a3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08e0818d-cef8-40c4-8661-1c0fe71b57cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                10 Applications
+                                            </value>
+      <webElementGuid>d162efff-dec3-4b18-b37d-9a7280f0c6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_kanban_view oe_background_grey o_kanban_dashboard o_hr_recruitment_kanban ui-sortable o_kanban_grouped&quot;]/div[@class=&quot;o_kanban_group ui-sortable&quot;]/div[@class=&quot;oe_kanban_color_0 o_kanban_record o_dropdown_open&quot;]/div[@class=&quot;container o_kanban_card_content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/button[@class=&quot;btn btn-primary oe_kanban_action oe_kanban_action_button&quot;]</value>
+      <webElementGuid>52a0c307-5c66-4134-bc2d-9d439b1ca242</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[28]</value>
+      <webElementGuid>da7bcb0a-c0d9-44e1-a466-385e5fdd0848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='edit new DH job 13:08:2023'])[1]/following::button[1]</value>
+      <webElementGuid>2578325d-65c1-41a0-b907-16dd86c7c718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need Requirements'])[1]/following::button[1]</value>
+      <webElementGuid>15e1e4c2-2815-4fe7-9e8e-379b23c4d545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Description'])[1]/preceding::button[1]</value>
+      <webElementGuid>e9152806-9135-4276-9ae8-eb83295af78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/div/button</value>
+      <webElementGuid>b037e3b7-8eca-4a67-a26c-fac460893513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                                10 Applications
+                                            ' or . = '
+                                                10 Applications
+                                            ')]</value>
+      <webElementGuid>7d164c94-b872-4cdf-8205-cd0463a54fd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

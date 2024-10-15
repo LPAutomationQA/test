@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that All Support Manager_Supervisor role doesn’t have access to Surveys</description>
+   <name>TC_Surveys_01_Support Manager_Supervisor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>397039d8-3f2b-40ef-82ac-886bbad2b2cb</testCaseGuid>
+</TestCaseEntity>

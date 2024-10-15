@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_TimeOff_Verify that the the DH Reject in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d35347ff-b743-4278-86f6-8d0cf9b1c9b2</testCaseGuid>
+</TestCaseEntity>

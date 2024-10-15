@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can add/edit/delete vendors.</description>
+   <name>TC_Accounting_15_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dac931cb-d570-4fe8-a9c4-d30f811ce000</testCaseGuid>
+</TestCaseEntity>

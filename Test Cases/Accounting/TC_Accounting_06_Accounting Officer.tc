@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can view vendors.</description>
+   <name>TC_Accounting_06_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c8315fc-084e-44b8-9718-7a381e397720</testCaseGuid>
+</TestCaseEntity>

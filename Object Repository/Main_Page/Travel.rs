@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Travel</name>
+   <tag></tag>
+   <elementGuidId>d80e21f1-ac8e-4439-a495-1d83db3d44d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='Travel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-gift</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f14fb703-b106-47ce-8a5f-97cef2a80e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-gift</value>
+      <webElementGuid>34d20f61-b889-4cdf-918d-f1b8f032228c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_app_9&quot;)/div[@class=&quot;o_app_icon&quot;]/i[@class=&quot;fa fa-gift&quot;]</value>
+      <webElementGuid>6fcb6bd7-7483-4a5b-9dac-43ba46f98baa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='result_app_9']/div/i</value>
+      <webElementGuid>f94ceb4f-1324-4362-8f2a-7fc64359562c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]/div/i</value>
+      <webElementGuid>883b9ffe-5738-48d0-a75f-73eeff68b30a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

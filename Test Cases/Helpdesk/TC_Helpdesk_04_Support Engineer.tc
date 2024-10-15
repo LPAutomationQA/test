@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Support Engineer can delete a ticket.</description>
+   <name>TC_Helpdesk_04_Support Engineer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bba328df-bd09-40ad-bfa6-d31e15825e6e</testCaseGuid>
+</TestCaseEntity>

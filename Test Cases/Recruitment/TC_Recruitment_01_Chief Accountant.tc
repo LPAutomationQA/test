@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant doesn’t have access to Recruitment</description>
+   <name>TC_Recruitment_01_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b851c219-032a-429d-acf5-40adf6492b81</testCaseGuid>
+</TestCaseEntity>

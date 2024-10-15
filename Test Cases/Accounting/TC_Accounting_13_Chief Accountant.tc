@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can add/edit/delete bills.</description>
+   <name>TC_Accounting_13_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fea8fa74-7a99-4518-b213-b41f5389212d</testCaseGuid>
+</TestCaseEntity>

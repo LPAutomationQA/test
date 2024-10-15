@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can view accounting tab.</description>
+   <name>TC_Accounting_07_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afdd14d5-43f7-40fa-bfcf-a5bfe7abbfad</testCaseGuid>
+</TestCaseEntity>

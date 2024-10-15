@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sales</name>
+   <tag></tag>
+   <elementGuidId>4f48c608-69a3-447b-866d-0f1a86b72329</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Sales' or . = 'Sales')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#result_app_6 > div.o_app_icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>efd14360-743c-4c6b-a702-99698ae5c079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_app_icon</value>
+      <webElementGuid>c023a3fb-b9a5-4094-9c5a-a05e3280c23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_app_6&quot;)/div[@class=&quot;o_app_icon&quot;]</value>
+      <webElementGuid>0afd75a5-e137-4786-aebf-54c09fae824a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='result_app_6']/div</value>
+      <webElementGuid>d4584387-91cc-4965-b5f6-127ddac8d7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/div</value>
+      <webElementGuid>37a9b61a-0518-47ca-8f93-21f766f60aa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

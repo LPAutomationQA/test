@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can view vendors.</description>
+   <name>TC_Accounting_06_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57c29e4a-0e5a-4430-80b5-9aceeaab4174</testCaseGuid>
+</TestCaseEntity>

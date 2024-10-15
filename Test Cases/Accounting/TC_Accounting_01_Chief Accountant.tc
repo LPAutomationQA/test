@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant/Accounting Officer can view invoices.</description>
+   <name>TC_Accounting_01_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b4cd98e-9d27-499a-8fd7-e0fd7d63754e</testCaseGuid>
+</TestCaseEntity>

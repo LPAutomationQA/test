@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Project Manger doesn’t have access to Recruitment</description>
+   <name>TC_Recruitment_01_Project Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1bc6bbd-8cf2-44c0-8872-0254e37d2133</testCaseGuid>
+</TestCaseEntity>

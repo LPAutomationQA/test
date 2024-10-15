@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Expense_Verify that the DH full work flow for same project working in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a90a7c2-42ac-4cec-8244-8b4ddd210d87</testCaseGuid>
+</TestCaseEntity>

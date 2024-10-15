@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Loans_Verify that the employee full work flow working in pending request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83f68dd9-4879-44ec-8acd-0784e6ea6353</testCaseGuid>
+</TestCaseEntity>

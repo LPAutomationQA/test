@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5_Travel_Verify that the DH full work flow for other project working in pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>111f205d-a125-41a8-8987-ef8730fdfc51</testCaseGuid>
+</TestCaseEntity>

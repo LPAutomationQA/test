@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the DH has access to invoices belonging to their department (based on the first analytical account group).</description>
+   <name>TC_Accounting_16_Project Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>006ef5ad-c8b9-47fa-ab7a-bdf0018c67d7</testCaseGuid>
+</TestCaseEntity>

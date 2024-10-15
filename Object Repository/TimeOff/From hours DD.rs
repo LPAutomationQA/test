@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>From hours DD</name>
+   <tag></tag>
+   <elementGuidId>7cec5c17-44a4-47ea-8fc9-126612f70a41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#o_field_input_800</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='o_field_input_800']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>716d98c2-52f9-428f-852c-2a4d1599aeee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input o_field_widget o_required_modifier</value>
+      <webElementGuid>2bd6b0d4-0db8-4d56-b765-cde4dd60430f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>request_hour_from</value>
+      <webElementGuid>e53f29ef-d562-4754-baab-9f314e8e026c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>o_field_input_800</value>
+      <webElementGuid>dbf551bd-9876-45d9-a623-09d05dc195b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9:00 AM9:30 AM10:00 AM10:30 AM11:00 AM11:30 AM12:00 PM12:30 PM1:00 PM1:30 PM2:00 PM2:30 PM3:00 PM3:30 PM4:00 PM4:30 PM5:00 PM5:30 PM6:00 PM</value>
+      <webElementGuid>63271bfe-d977-4391-bda9-ed5b1cff0b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_800&quot;)</value>
+      <webElementGuid>6fd2f941-b1d8-4746-b5eb-9db3987d010d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='o_field_input_800']</value>
+      <webElementGuid>be00cd0e-a358-4b3b-aa01-a85fec73b507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[2]/following::select[1]</value>
+      <webElementGuid>4883c69e-d921-4ede-869f-8a4ef2e8d98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Days-long custom hours'])[1]/following::select[1]</value>
+      <webElementGuid>6f07ba0f-5b24-43a3-9500-9ec62722f91a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[2]/preceding::select[1]</value>
+      <webElementGuid>a75decdf-1835-4299-ab9a-bbc598d73f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration'])[1]/preceding::select[2]</value>
+      <webElementGuid>28a28ab9-7425-4dd5-9492-66cf455abbd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>71eed352-b8ea-45fb-aa3b-915dc3f4ed5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'request_hour_from' and @id = 'o_field_input_800' and (text() = '9:00 AM9:30 AM10:00 AM10:30 AM11:00 AM11:30 AM12:00 PM12:30 PM1:00 PM1:30 PM2:00 PM2:30 PM3:00 PM3:30 PM4:00 PM4:30 PM5:00 PM5:30 PM6:00 PM' or . = '9:00 AM9:30 AM10:00 AM10:30 AM11:00 AM11:30 AM12:00 PM12:30 PM1:00 PM1:30 PM2:00 PM2:30 PM3:00 PM3:30 PM4:00 PM4:30 PM5:00 PM5:30 PM6:00 PM')]</value>
+      <webElementGuid>2ea40e2f-5955-4656-b65c-41e5e39ad517</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

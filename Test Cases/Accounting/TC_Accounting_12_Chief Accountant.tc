@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can add/edit/delete product.</description>
+   <name>TC_Accounting_12_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aebffe86-ba05-46a9-8309-8a668bf9a864</testCaseGuid>
+</TestCaseEntity>

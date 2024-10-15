@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Half Day Checkbox</name>
+   <tag></tag>
+   <elementGuidId>55bb029f-9dc9-49e0-9851-62f6e789672d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;request_unit_half&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@name='request_unit_half']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>94036bfe-e035-4a2a-84bb-3c1d2a7faeb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control custom-checkbox o_field_boolean o_field_widget</value>
+      <webElementGuid>bacb231d-f600-4973-9be5-b114888cb1eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>request_unit_half</value>
+      <webElementGuid>1dfc2d60-49be-416f-b771-dda00474168f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​</value>
+      <webElementGuid>7f0f3040-ee98-4f49-8694-82ad3f54db30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_view o_xxl_form_view o_form_editable&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;clearfix position-relative o_form_sheet&quot;]/div[@class=&quot;o_group&quot;]/table[@class=&quot;o_group o_inner_group o_group_col_6&quot;]/tbody[1]/tr[1]/td[2]/div[1]/div[@class=&quot;o_row o_row_readonly oe_edit_only&quot;]/div[@class=&quot;custom-control custom-checkbox o_field_boolean o_field_widget&quot;]</value>
+      <webElementGuid>b4bb8f96-7097-4cf1-ad13-11fc9d52f818</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@name='request_unit_half']</value>
+      <webElementGuid>4fdc9d38-a234-421c-bd03-153bf4d65c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/following::div[3]</value>
+      <webElementGuid>6f705d70-87ca-47e7-9f6f-9a2a79ab6d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/following::div[4]</value>
+      <webElementGuid>c37095c0-4929-4b51-b433-7e7ea6cea315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Half Day'])[1]/preceding::div[1]</value>
+      <webElementGuid>0bf4affa-71fe-4b84-acca-00474f5404ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div[2]/div</value>
+      <webElementGuid>72b923f4-0b0c-4ac9-9274-9cb9de604891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@name = 'request_unit_half' and (text() = '​' or . = '​')]</value>
+      <webElementGuid>f4565f6e-81c0-4db7-89c6-0b1bd2cdbded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

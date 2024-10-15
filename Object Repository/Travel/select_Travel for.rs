@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Travel for</name>
+   <tag></tag>
+   <elementGuidId>a4b23865-e048-4906-9917-cf555575292b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[contains(@class,'o_input o_field_widget')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#o_field_input_852</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ee67897d-35d0-482a-bd50-ac6a3ecb9883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input o_field_widget o_required_modifier</value>
+      <webElementGuid>b6ae68a1-5cb7-4588-b065-7d94594aea0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>x_studio_travel_for</value>
+      <webElementGuid>c79ae2aa-a10a-4b4a-a1d1-0c2e13969382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>o_field_input_852</value>
+      <webElementGuid>0fbbf1c7-9b5c-4aa7-ac9f-212b973faad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project</value>
+      <webElementGuid>899066b8-93f9-4f36-af52-58099194bae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_852&quot;)</value>
+      <webElementGuid>86fcdf1c-a27f-4568-a849-bb0c4c9a17bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='o_field_input_852']</value>
+      <webElementGuid>f6eeb58f-4899-452c-b684-730d58a5c50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel For'])[1]/following::select[1]</value>
+      <webElementGuid>09f4c033-bd8f-463c-b25c-ea491949c398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee'])[2]/following::select[1]</value>
+      <webElementGuid>4b2846e6-5f16-4277-96d7-02e82c047558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::select[1]</value>
+      <webElementGuid>377dc2a6-ae12-4fe7-b0b3-49601f3f4d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead/Opportunity'])[1]/preceding::select[1]</value>
+      <webElementGuid>dc061ee2-66fc-4cc9-97fd-f7b21b24cf7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ad3d2691-6c8e-4ae3-b369-a2ef4348e858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'x_studio_travel_for' and @id = 'o_field_input_852' and (text() = 'Project' or . = 'Project')]</value>
+      <webElementGuid>c9ca92f1-ae4d-4687-988c-9be6d65a9a2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

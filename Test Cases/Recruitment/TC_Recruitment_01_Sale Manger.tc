@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Sale Manger doesn’t have access to Recruitment</description>
+   <name>TC_Recruitment_01_Sale Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f48916fd-2ec0-44c0-842f-f0b066818d55</testCaseGuid>
+</TestCaseEntity>

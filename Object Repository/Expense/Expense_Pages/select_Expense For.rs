@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Expense For</name>
+   <tag></tag>
+   <elementGuidId>cbde9b28-67f8-4558-8ccf-f00993d74c47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@class='o_input o_field_widget o_required_modifier']
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#o_field_input_869</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ca11e0ec-ada3-477f-8fa2-0ebd452be6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input o_field_widget o_required_modifier</value>
+      <webElementGuid>dcd5397b-fe18-4320-8150-0b9b2c8c5078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>x_studio_expense_for</value>
+      <webElementGuid>00f4866e-7bb0-4641-99da-712833ebd017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>o_field_input_869</value>
+      <webElementGuid>790c1079-5e2f-4e99-a1e5-810c99e09128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project</value>
+      <webElementGuid>9f836c77-31cf-4352-8bf7-fa757773debe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_869&quot;)</value>
+      <webElementGuid>ff3baaaa-180a-4227-b845-a0d47f79dc77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='o_field_input_869']</value>
+      <webElementGuid>9378ce85-b830-473e-8947-6e3caa60c5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expense For'])[1]/following::select[1]</value>
+      <webElementGuid>1c6784da-7ae2-4f15-bb7d-040318daf8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::select[1]</value>
+      <webElementGuid>9330ebb5-8d07-44c8-a093-d824afaf37ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[2]/preceding::select[1]</value>
+      <webElementGuid>7a12ade3-9226-436c-a991-e5369f823878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead/Opportunity'])[1]/preceding::select[1]</value>
+      <webElementGuid>40ab5bf5-a62b-4ef1-88a6-bc814f4ef8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>49ec3b63-6b27-451e-b5ff-404043d878e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'x_studio_expense_for' and @id = 'o_field_input_869' and (text() = 'Project' or . = 'Project')]</value>
+      <webElementGuid>e2421d79-04fb-4ae2-a8e2-e10d88655de3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

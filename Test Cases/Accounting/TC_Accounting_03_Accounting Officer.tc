@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can view payments.</description>
+   <name>TC_Accounting_03_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2da284d1-aaeb-48ec-976c-5402c5aa2efa</testCaseGuid>
+</TestCaseEntity>

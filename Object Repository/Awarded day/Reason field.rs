@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Reason field</name>
+   <tag></tag>
+   <elementGuidId>f24dfff5-1c64-4c6d-a207-3b562cb2f030</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@class='o_input o_field_widget o_required_modifier' and @name='x_reason']
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#o_field_input_822</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>21d27aa0-6c13-44ac-8324-52e591fc6278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input o_field_widget o_required_modifier</value>
+      <webElementGuid>b36dbed5-ea4f-4991-bf47-e40ffcd1a5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>x_reason</value>
+      <webElementGuid>a9b2930f-d1cf-472f-9f4a-2871ea49241b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>o_field_input_822</value>
+      <webElementGuid>6e3ba6af-2b93-47af-84e5-3e44e7684a2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Travel over weekend/public holidayOvertime workWork over weekend/public holiday</value>
+      <webElementGuid>6d4d3d47-2eac-4a23-8558-30f7dd5f2ac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_822&quot;)</value>
+      <webElementGuid>8787beb4-9bf9-44ec-9a53-1b10cac21962</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='o_field_input_822']</value>
+      <webElementGuid>faa3142a-d5fa-49f4-bc38-b4d7046f73bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal_824']/div/div/main/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>c81ba2e7-2674-47d3-b4ce-0ee94bb9a8a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[2]/following::select[1]</value>
+      <webElementGuid>6f62e2d7-d650-4a63-b920-02b519f0112f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/following::select[1]</value>
+      <webElementGuid>1ceef00d-8ef5-4fd5-b199-3a042163bcbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. of Hours'])[2]/preceding::select[1]</value>
+      <webElementGuid>8bfa4a90-870e-48a4-a291-fdecd2bb6d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Close'])[1]/preceding::select[1]</value>
+      <webElementGuid>f60539f5-b8e8-457f-a213-3399f5ff2b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/select</value>
+      <webElementGuid>a5dfffbb-8552-44e6-aead-7cf7d1456cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'x_reason' and @id = 'o_field_input_822' and (text() = 'Travel over weekend/public holidayOvertime workWork over weekend/public holiday' or . = 'Travel over weekend/public holidayOvertime workWork over weekend/public holiday')]</value>
+      <webElementGuid>ceaffc0b-9b82-4177-99f6-e16c9781566f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

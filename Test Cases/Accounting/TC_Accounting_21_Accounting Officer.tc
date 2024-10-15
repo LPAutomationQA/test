@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can change bills status.</description>
+   <name>TC_Accounting_21_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d09285c7-ba57-49f9-b060-87c56e9b5f1a</testCaseGuid>
+</TestCaseEntity>

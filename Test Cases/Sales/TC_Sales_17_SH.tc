@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that SH doesn’t have access to sale module</description>
+   <name>TC_Sales_17_SH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff7591be-6c33-4c6a-a8ec-23999772d951</testCaseGuid>
+</TestCaseEntity>

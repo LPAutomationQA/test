@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can add/edit/delete invoices.</description>
+   <name>TC_Accounting_10_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfd816d6-80d3-4d62-a926-d8308ac31387</testCaseGuid>
+</TestCaseEntity>
