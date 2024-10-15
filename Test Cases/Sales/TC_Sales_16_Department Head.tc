@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the DH can delete his Quotation</description>
+   <name>TC_Sales_16_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d31d2968-efde-4e20-b68a-1b68e36ec586</testCaseGuid>
+</TestCaseEntity>

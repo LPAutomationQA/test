@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can view configuration tab.</description>
+   <name>TC_Accounting_09_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0b4eaa7-bcf8-41b0-9297-4c69d00dd28a</testCaseGuid>
+</TestCaseEntity>

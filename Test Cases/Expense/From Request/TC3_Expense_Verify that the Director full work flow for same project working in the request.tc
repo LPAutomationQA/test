@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Expense_Verify that the Director full work flow for same project working in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d596d03c-98e3-48d2-9f41-8f342d37d5d5</testCaseGuid>
+</TestCaseEntity>

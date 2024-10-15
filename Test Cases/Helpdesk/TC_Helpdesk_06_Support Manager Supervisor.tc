@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Support Manager Supervisor can access reporting.</description>
+   <name>TC_Helpdesk_06_Support Manager Supervisor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edaa5644-fa00-4ee2-8783-2feba3db0067</testCaseGuid>
+</TestCaseEntity>

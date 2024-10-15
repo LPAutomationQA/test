@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Destination</name>
+   <tag></tag>
+   <elementGuidId>0bd4e762-a01d-474c-9632-3d436d69531f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[contains(@class,'o_input o_field_widget')])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#o_field_input_858</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5c1b7a2e-fbfe-4991-953b-c1cf5ee2b6aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input o_field_widget o_required_modifier</value>
+      <webElementGuid>a3096b3c-108d-4ea3-93c3-e95896173fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>x_studio_destination</value>
+      <webElementGuid>a7c95b5b-a7de-4c65-a177-7c81f31b0776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>o_field_input_858</value>
+      <webElementGuid>7d756a18-c4df-424e-bedd-562aa8aef04e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JordanEgyptIraqKuwaitOmanSaudi ArabiaSpainUAEUSA</value>
+      <webElementGuid>eba66668-2adc-46bf-82d3-b7b8af05734f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_858&quot;)</value>
+      <webElementGuid>8558790d-1e55-4842-b4fb-ea0ed009da8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='o_field_input_858']</value>
+      <webElementGuid>e1718cb3-0024-4737-8ec8-769bfec2e30b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination'])[1]/following::select[1]</value>
+      <webElementGuid>55237b38-1b08-48a9-ac64-3fd396aad894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Origin'])[1]/following::select[2]</value>
+      <webElementGuid>594ebd8e-498d-4489-a3b4-ea87d4724cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/preceding::select[1]</value>
+      <webElementGuid>8b23840f-edd0-4bc6-bcfe-8fbc89e5646c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/preceding::select[1]</value>
+      <webElementGuid>1a212ac9-1a01-4fcf-a6db-1de4dd8090e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/select</value>
+      <webElementGuid>30064fc6-88c8-4f6d-ad3d-125bd0bb24e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'x_studio_destination' and @id = 'o_field_input_858' and (text() = 'JordanEgyptIraqKuwaitOmanSaudi ArabiaSpainUAEUSA' or . = 'JordanEgyptIraqKuwaitOmanSaudi ArabiaSpainUAEUSA')]</value>
+      <webElementGuid>87535eb4-d2b9-4aff-a189-8a5b629c44b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

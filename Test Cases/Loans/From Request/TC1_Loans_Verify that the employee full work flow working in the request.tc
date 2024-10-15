@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Loans_Verify that the employee full work flow working in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>604e178c-7457-463a-acb6-290bb5d90782</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Support Engineer can  create a ticket and change tickiet status</description>
+   <name>TC_Helpdesk_03_Support Engineer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bf10bb7-07a8-49f7-badd-f99c00097811</testCaseGuid>
+</TestCaseEntity>

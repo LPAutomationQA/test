@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Support Manager\Supervisor doesn't have access to the Accounting module.</description>
+   <name>TC_Accounting_18_Support Manager_Supervisor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e2b0bea-7bc2-4df4-838c-9481830c91c7</testCaseGuid>
+</TestCaseEntity>

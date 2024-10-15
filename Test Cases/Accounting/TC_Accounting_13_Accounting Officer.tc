@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can add/edit/delete bills.</description>
+   <name>TC_Accounting_13_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c03a2396-4d46-4c99-bdb4-736e976bb6a9</testCaseGuid>
+</TestCaseEntity>

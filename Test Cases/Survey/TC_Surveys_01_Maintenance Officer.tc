@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Maintenance Officer doesn’t have access to Surveys</description>
+   <name>TC_Surveys_01_Maintenance Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89e26c34-1298-4a3e-9de3-a383163938fb</testCaseGuid>
+</TestCaseEntity>

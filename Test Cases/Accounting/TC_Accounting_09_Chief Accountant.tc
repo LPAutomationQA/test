@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can view configuration tab.</description>
+   <name>TC_Accounting_09_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8993b3f-f99c-42fd-b9a7-6bc146d6a041</testCaseGuid>
+</TestCaseEntity>

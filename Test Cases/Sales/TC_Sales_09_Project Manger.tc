@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the Project Manger can view only his Quotation</description>
+   <name>TC_Sales_09_Project Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71718186-6fc9-4041-8f1a-e7ee166e6a2e</testCaseGuid>
+</TestCaseEntity>

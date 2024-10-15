@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Website Admin doesn't have access to the Accounting module.</description>
+   <name>TC_Accounting_18_Website Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df937177-e0a4-4739-a490-bfbdbc088053</testCaseGuid>
+</TestCaseEntity>

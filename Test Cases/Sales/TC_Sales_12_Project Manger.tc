@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the Project Manger can delete his Quotation</description>
+   <name>TC_Sales_12_Project Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be9c2d10-5012-4bbd-9533-5c1c63c9fdee</testCaseGuid>
+</TestCaseEntity>

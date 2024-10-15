@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify thatChief Accountant role doesn’t have access to help desk module</description>
+   <name>TC_Helpdesk_08_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12d62fb7-9861-4c67-9c17-a51128abe1f4</testCaseGuid>
+</TestCaseEntity>

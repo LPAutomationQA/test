@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the HR senior recruitment Office has access to the Recruitment  and can delete job and applicant</description>
+   <name>TC_Recruitment_12_DH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43f9696f-bcd7-43a5-87aa-80e6d26d3f1f</testCaseGuid>
+</TestCaseEntity>

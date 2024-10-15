@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can add/edit/delete vendors.</description>
+   <name>TC_Accounting_15_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cdb8f3c-10cf-4f02-960f-d274f9a771a3</testCaseGuid>
+</TestCaseEntity>

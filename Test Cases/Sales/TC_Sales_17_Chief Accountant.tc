@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Chief Accountant doesn’t have access to sale module</description>
+   <name>TC_Sales_17_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cdd04fd-8da6-492d-842f-e0e5b892c36c</testCaseGuid>
+</TestCaseEntity>

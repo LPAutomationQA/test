@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Department Head can view products.</description>
+   <name>TC_Accounting_03_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb16c199-ea43-4c48-b8a3-bde0f112d0f8</testCaseGuid>
+</TestCaseEntity>

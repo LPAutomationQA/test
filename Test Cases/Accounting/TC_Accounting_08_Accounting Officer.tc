@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can view reporting tab.</description>
+   <name>TC_Accounting_08_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50907efd-b186-4f55-9569-7afe19f6698c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Support Manager doesn’t have access to Recruitment</description>
+   <name>TC_Recruitment_01_Support Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52c0ba0b-ef94-4690-8ffa-2bb82b483942</testCaseGuid>
+</TestCaseEntity>

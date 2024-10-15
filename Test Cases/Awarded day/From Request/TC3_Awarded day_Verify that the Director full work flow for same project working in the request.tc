@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Awarded day_Verify that the Director full work flow for same project working in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e70a3ec-1e36-44b6-971c-506cc98d0244</testCaseGuid>
+</TestCaseEntity>

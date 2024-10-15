@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the Sales &amp; Marketing Department Head can view all Sales Orders</description>
+   <name>TC_Sales_05_Sales Marketing Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0310dbe-aed1-4412-bd37-123e4ff4585f</testCaseGuid>
+</TestCaseEntity>

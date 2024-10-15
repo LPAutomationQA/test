@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the Project Manger can edit his Quotation</description>
+   <name>TC_Sales_15_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73047999-12c7-4517-b42d-5ab3776f3808</testCaseGuid>
+</TestCaseEntity>

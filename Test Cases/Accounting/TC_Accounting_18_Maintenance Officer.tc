@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Maintenance Officer doesn't have access to the Accounting module.</description>
+   <name>TC_Accounting_18_Maintenance Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd9e3281-e9cf-43cb-a80f-5099673d3862</testCaseGuid>
+</TestCaseEntity>

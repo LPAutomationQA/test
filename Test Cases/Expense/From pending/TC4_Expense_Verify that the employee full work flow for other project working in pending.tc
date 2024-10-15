@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_Expense_Verify that the employee full work flow for other project working in pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0fc7541-e21c-4cd8-840a-7c7229f9abb7</testCaseGuid>
+</TestCaseEntity>

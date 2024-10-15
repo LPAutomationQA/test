@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can add/edit/delete product.</description>
+   <name>TC_Accounting_12_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f9b00cd-bdcc-4915-ae6b-ea7bfaca8254</testCaseGuid>
+</TestCaseEntity>

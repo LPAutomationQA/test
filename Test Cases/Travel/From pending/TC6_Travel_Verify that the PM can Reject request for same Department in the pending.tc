@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_Travel_Verify that the PM can Reject request for same Department in the pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2b71caf-5b43-467f-9d3d-81200781224c</testCaseGuid>
+</TestCaseEntity>

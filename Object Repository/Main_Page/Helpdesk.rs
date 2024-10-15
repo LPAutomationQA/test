@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Helpdesk</name>
+   <tag></tag>
+   <elementGuidId>f4d18b91-6a78-4d90-b4ea-960bcc642acc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Helpdesk' or . = 'Helpdesk')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#result_app_12 > div.o_app_icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07d1c0de-eb30-4ff9-b445-af9a91198b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_app_icon</value>
+      <webElementGuid>b460854f-61b5-455d-9812-0fc043bdd512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_app_12&quot;)/div[@class=&quot;o_app_icon&quot;]</value>
+      <webElementGuid>8f0c3346-d56c-4081-af88-c1e85a571814</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='result_app_12']/div</value>
+      <webElementGuid>e0dbf5d4-cb88-4eed-8b2c-c2ceea408e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[13]/div</value>
+      <webElementGuid>54cf5518-a493-4036-99d6-7f3bb2515a38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

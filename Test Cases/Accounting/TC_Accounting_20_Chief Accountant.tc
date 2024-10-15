@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can change payments status</description>
+   <name>TC_Accounting_20_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d78ea038-2e50-44f4-a9dc-0e5227fcbbc3</testCaseGuid>
+</TestCaseEntity>

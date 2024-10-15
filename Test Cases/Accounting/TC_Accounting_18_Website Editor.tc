@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Website Editor doesn't have access to the Accounting module.</description>
+   <name>TC_Accounting_18_Website Editor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>570abe5c-81de-4f8f-be98-aa007532c5f7</testCaseGuid>
+</TestCaseEntity>

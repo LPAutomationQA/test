@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that All Sales_ Marketing Department Head role doesn’t have access to Surveys</description>
+   <name>TC_Surveys_01_Sales_ Marketing Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c45c6b6-b120-4524-8886-a68935c8b96c</testCaseGuid>
+</TestCaseEntity>

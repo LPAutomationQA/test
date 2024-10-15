@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can change refunds status.</description>
+   <name>TC_Accounting_22_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b09b8bf3-f8d9-4782-8c19-c77a907a3f7f</testCaseGuid>
+</TestCaseEntity>

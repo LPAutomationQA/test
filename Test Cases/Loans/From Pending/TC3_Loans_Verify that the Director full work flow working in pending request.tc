@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Loans_Verify that the Director full work flow working in pending request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b4274ae-c829-48ce-8a81-3a13909f67db</testCaseGuid>
+</TestCaseEntity>

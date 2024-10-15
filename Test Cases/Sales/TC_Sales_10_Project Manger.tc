@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that Project Manger can add Quotation</description>
+   <name>TC_Sales_10_Project Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c1523b9-c2ae-4bce-b19a-40991ccd52e2</testCaseGuid>
+</TestCaseEntity>

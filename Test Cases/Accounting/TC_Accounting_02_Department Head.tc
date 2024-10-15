@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Department Head can view payments.</description>
+   <name>TC_Accounting_02_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a87f0d-055f-416a-a9a0-e7968069e6fc</testCaseGuid>
+</TestCaseEntity>

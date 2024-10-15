@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Accounting Officer doesn’t have access to sale module</description>
+   <name>TC_Sales_17_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d02f5e67-4487-45ee-9416-25a23223e1bc</testCaseGuid>
+</TestCaseEntity>

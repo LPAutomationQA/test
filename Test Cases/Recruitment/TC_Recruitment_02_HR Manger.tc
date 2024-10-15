@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the  HR Mange has access to the Recruitment - Configurations</description>
+   <name>TC_Recruitment_02_HR Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbbaed42-1928-421e-a87d-ad8e04dc0ced</testCaseGuid>
+</TestCaseEntity>

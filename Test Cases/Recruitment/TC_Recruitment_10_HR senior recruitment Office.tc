@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the DH have access to view Recruitment - Application of his openings only</description>
+   <name>TC_Recruitment_10_HR senior recruitment Office</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6a48e2f-6365-4520-a237-2dc98a734c3d</testCaseGuid>
+</TestCaseEntity>
