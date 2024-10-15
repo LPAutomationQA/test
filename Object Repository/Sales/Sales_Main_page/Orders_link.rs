@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Orders_link</name>
+   <tag></tag>
+   <elementGuidId>3363b30f-cd56-4695-8760-d992399edd94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Orders' or . = 'Orders')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3607b41d-bb1c-4fd7-97e2-b05c8b3176bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Orders</value>
+      <webElementGuid>c4549c3e-14be-4ec5-8763-b7a1303e819e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/header[1]/nav[@class=&quot;o_main_navbar&quot;]/ul[@class=&quot;o_menu_sections&quot;]/li[@class=&quot;show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item o_menu_entry_lvl_2&quot;]/span[1]</value>
+      <webElementGuid>0d819ffb-51f9-4796-8830-4037eeb8327f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quotations'])[1]/following::span[1]</value>
+      <webElementGuid>ce35345f-4ed6-414d-8a5f-82fab57149ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Teams'])[1]/preceding::span[1]</value>
+      <webElementGuid>2e68f523-35b6-4693-890d-bc45d935d9a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customers'])[1]/preceding::span[2]</value>
+      <webElementGuid>bed21f71-23c2-42e4-b25c-8bfd4c6b986f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>6821faaf-4f06-4147-a41f-8f1ebb6a797b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Orders' or . = 'Orders')]</value>
+      <webElementGuid>1a39bf98-402a-4fb2-af68-3fdb6f999d0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

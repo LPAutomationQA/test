@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Contract Proposal_stage</name>
+   <tag></tag>
+   <elementGuidId>9eab211e-b585-4cfb-87be-ab3f43fa876b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Contract Proposal']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4096c95f-a282-40be-8c43-2e132837aa57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f74fefaa-2ffd-42d6-a807-ef3d5f3c476c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>8d72707b-cc0a-404c-addc-1e37a145923e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Not active state, click to change it</value>
+      <webElementGuid>6a6cf652-41b2-4528-978a-e5e8575746f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7a6c95b5-7c16-4993-a885-a81c0cdd25d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>152e9c35-b0fc-4993-8ed3-941f15eff6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn o_arrow_button btn-secondary </value>
+      <webElementGuid>87e52fb1-3577-4723-9444-c5168eba7cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accesskey</name>
+      <type>Main</type>
+      <value>O</value>
+      <webElementGuid>9ab0f9d8-62c6-414e-beb6-1b3c9a23abf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-keyshortcuts</name>
+      <type>Main</type>
+      <value>Alt+Shift+O</value>
+      <webElementGuid>241c2e92-e25e-49d2-9fb1-87f8af29b6bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Contract Proposal
+    </value>
+      <webElementGuid>b45c3e12-7c7b-45dc-b8ae-f166e786f698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_view o_xxl_form_view o_applicant_form o_form_editable&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_statusbar&quot;]/div[@class=&quot;o_statusbar_status o_field_widget&quot;]/button[@class=&quot;btn o_arrow_button btn-secondary&quot;]</value>
+      <webElementGuid>c2890269-3443-4216-a631-b6d10e133b1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[32]</value>
+      <webElementGuid>78932b1a-2305-4350-8c3a-138478c09b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contract Signed'])[1]/following::button[1]</value>
+      <webElementGuid>f6921924-f783-42db-b6a0-4fb7c0480fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::button[2]</value>
+      <webElementGuid>ce765a73-8bba-49cb-9018-415bad744656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Second Interview'])[1]/preceding::button[1]</value>
+      <webElementGuid>e08ab2b6-e0b2-4618-aa2c-836bbce29a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Interview'])[1]/preceding::button[2]</value>
+      <webElementGuid>db9e536f-de23-442c-b7a6-93a1813cb59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contract Proposal']/parent::*</value>
+      <webElementGuid>a0c7953c-c044-40a6-b9c6-121af8f198cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>b36938a7-f7e4-41a8-9689-b7f2e4d5b975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Not active state, click to change it' and (text() = '
+        Contract Proposal
+    ' or . = '
+        Contract Proposal
+    ')]</value>
+      <webElementGuid>915578ad-bfee-40e3-8290-ca6b40629d3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

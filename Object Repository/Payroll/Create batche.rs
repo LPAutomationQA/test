@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create batche</name>
+   <tag></tag>
+   <elementGuidId>fe0ba25c-e425-41a6-a03c-3dc9dbf740f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = '
+                Create
+            ' or . = '
+                Create
+            ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.o_list_button_add</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3ef1b175-9c0e-4b18-8b73-4643915f3169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b185218c-ff2b-4420-a090-8c3452c9f838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary o_list_button_add</value>
+      <webElementGuid>7ee679ee-3b29-40bf-adf2-bf1b24355c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accesskey</name>
+      <type>Main</type>
+      <value>c</value>
+      <webElementGuid>ccc46330-4d5b-4b85-8cb9-8692180bcff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Create
+            </value>
+      <webElementGuid>2a309f76-231c-4973-acae-82dfbe71d59a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_control_panel&quot;]/div[@class=&quot;o_cp_bottom&quot;]/div[@class=&quot;o_cp_bottom_left&quot;]/div[@class=&quot;o_cp_buttons&quot;]/div[@class=&quot;o_list_buttons&quot;]/button[@class=&quot;btn btn-primary o_list_button_add&quot;]</value>
+      <webElementGuid>50521c99-a8e7-44cd-b385-da127ee9ea87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>c3c22395-6ad8-4def-9a4d-0db515de36e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discard'])[1]/following::button[1]</value>
+      <webElementGuid>446e3042-f79d-4593-8da7-b85c5ac77f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[2]</value>
+      <webElementGuid>65def2ba-fe5a-48c4-9ec7-55e9557d60d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::button[2]</value>
+      <webElementGuid>027e0e5d-b3a0-48cc-b219-79f7cd0eaf04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group By'])[1]/preceding::button[3]</value>
+      <webElementGuid>da4a7ae7-1f26-4823-967d-b75e3976a882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>2674de93-da38-4968-8713-e9c3998502d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>12ff872e-ee47-48f5-8fe9-b8c9afe466ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                Create
+            ' or . = '
+                Create
+            ')]</value>
+      <webElementGuid>f752fe14-7ee4-4216-8ebe-453287db1106</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

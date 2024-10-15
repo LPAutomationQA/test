@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the  HR senior recruitment Officer has access to the Recruitment - Configurations</description>
+   <name>TC_Recruitment_12_Job flow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef2d47c3-9295-44e9-863c-c9c2041e4803</testCaseGuid>
+</TestCaseEntity>

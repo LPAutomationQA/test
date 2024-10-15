@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Department Head can view refunds.</description>
+   <name>TC_Accounting_05_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef9dfd33-a97e-492b-ba30-03b8a4c3295d</testCaseGuid>
+</TestCaseEntity>

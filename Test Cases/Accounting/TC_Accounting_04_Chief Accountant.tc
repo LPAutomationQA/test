@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can view bills.</description>
+   <name>TC_Accounting_04_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f26e8c26-8c13-4f3c-b518-7daa56844f38</testCaseGuid>
+</TestCaseEntity>

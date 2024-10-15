@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Responsible Approver</name>
+   <tag></tag>
+   <elementGuidId>8385cdf8-6e30-4389-83e0-579e64db525a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span[name=&quot;responsible_approver&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@name='responsible_approver']
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fd3fa90-d3b6-4b45-91db-1e2d8f0d31f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_field_char o_field_widget o_readonly_modifier</value>
+      <webElementGuid>a186d5c6-a2f8-40f9-8951-6aa132768711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>responsible_approver</value>
+      <webElementGuid>8315c069-2c93-43ce-a8a9-7029a79f305f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Banan Emad Majed AL- Momani</value>
+      <webElementGuid>bbffaa1f-c08c-4c6b-9652-ff30e7c5d50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_view o_xxl_form_view o_expense_form o_form_readonly&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;clearfix position-relative o_form_sheet&quot;]/div[@class=&quot;o_group&quot;]/table[@class=&quot;o_group o_inner_group o_group_col_6&quot;]/tbody[1]/tr[2]/td[2]/span[@class=&quot;o_field_char o_field_widget o_readonly_modifier&quot;]</value>
+      <webElementGuid>5c5d3198-5f4f-473c-9f47-fc662112e958</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@name='responsible_approver']</value>
+      <webElementGuid>bf30cc3d-7963-4cb2-a7a2-b289b5ad007b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsible Approver'])[1]/following::span[1]</value>
+      <webElementGuid>8b8dde5f-96cb-4374-abaa-5fb136b3de43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejection Reason'])[1]/following::span[2]</value>
+      <webElementGuid>14ef6d15-d425-4781-933a-6e35a68da6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paid By'])[1]/preceding::span[1]</value>
+      <webElementGuid>de16eb3a-16e9-4755-a97f-c17fc0ee7415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee (to reimburse)'])[1]/preceding::span[1]</value>
+      <webElementGuid>fdb0f671-33ed-4c3c-aa24-da8fa74b55ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Banan Emad Majed AL- Momani']/parent::*</value>
+      <webElementGuid>8c1a7c2e-794e-4b3b-b9ea-bcd55823322a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr[2]/td[2]/span</value>
+      <webElementGuid>b3946ae7-ace4-4599-9817-2a0f04eb658f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@name = 'responsible_approver' and (text() = 'Banan Emad Majed AL- Momani' or . = 'Banan Emad Majed AL- Momani')]</value>
+      <webElementGuid>13d494cf-f4b8-47e5-8881-bfc4d2b5bef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

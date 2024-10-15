@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the SH doesn’t have access to Surveys</description>
+   <name>TC_Surveys_01_SH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bba7438-675a-4433-a20b-952a3bf4edf0</testCaseGuid>
+</TestCaseEntity>

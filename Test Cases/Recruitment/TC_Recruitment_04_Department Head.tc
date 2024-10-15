@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the DH doesn’t have access to Recruitment - Configurations</description>
+   <name>TC_Recruitment_04_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>714ae2e7-602b-4628-b8c9-a9e2bbb20b4c</testCaseGuid>
+</TestCaseEntity>

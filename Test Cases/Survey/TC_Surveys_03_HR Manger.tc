@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the HR Mange can add new Surveys</description>
+   <name>TC_Surveys_03_HR Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad6a13b5-220d-44bd-b87f-51b76e71d745</testCaseGuid>
+</TestCaseEntity>

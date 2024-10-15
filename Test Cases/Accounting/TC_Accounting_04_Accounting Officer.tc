@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can view bills.</description>
+   <name>TC_Accounting_04_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>235c16b0-a43e-4b86-b8b4-ee162eeac147</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Complaints Manager role doesn’t have access to Surveys</description>
+   <name>TC_Surveys_01_Complaints Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc0688bf-6a05-4cf7-a00a-d9e6e9c6e058</testCaseGuid>
+</TestCaseEntity>

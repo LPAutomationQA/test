@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Department Head can view invoices.</description>
+   <name>TC_Accounting_01_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81dbb344-0219-4bd5-8ef5-0f685b87df3c</testCaseGuid>
+</TestCaseEntity>

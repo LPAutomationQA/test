@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_Awarded day_Verify that the PM can Reject request for same Department in the pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e433c2e9-97b0-428d-88e5-3f30b8e48c05</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can change bills status.</description>
+   <name>TC_Accounting_21_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d745f2c9-c534-488e-bee9-010f4dfa3ae5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Respnsable Approver</name>
+   <tag></tag>
+   <elementGuidId>954fed63-e9ea-4ddd-9be2-f49c1ccc9359</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span[name=&quot;x_responsible_approver&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@name='x_responsible_approver']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c00eb3ed-25aa-4fe7-ab66-2e1ce31e5124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_field_char o_field_widget o_readonly_modifier</value>
+      <webElementGuid>faf3ab88-a05c-47c4-b2e3-2e4452352add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>x_responsible_approver</value>
+      <webElementGuid>df76d875-afd4-4e6b-a9aa-4e586405af86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HR Loans Team</value>
+      <webElementGuid>f347dae4-f1c7-41be-8907-1f0133769b94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_view o_form_readonly&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;clearfix position-relative o_form_sheet&quot;]/div[@class=&quot;o_group&quot;]/table[@class=&quot;o_group o_inner_group o_group_col_6&quot;]/tbody[1]/tr[15]/td[2]/span[@class=&quot;o_field_char o_field_widget o_readonly_modifier&quot;]</value>
+      <webElementGuid>93c63f6b-0b72-49c5-9467-db7a90392d0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@name='x_responsible_approver']</value>
+      <webElementGuid>e9f782f5-cee6-4b45-b5cf-e9aa9fc237b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsible Approver'])[1]/following::span[1]</value>
+      <webElementGuid>ffdf7997-bc7b-4a60-a437-f51f3122f998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject Reason'])[1]/following::span[2]</value>
+      <webElementGuid>a2d2a70a-7ffd-4bb8-84b4-3cecc90018da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Installments'])[1]/preceding::span[1]</value>
+      <webElementGuid>2929f02e-e2c6-402d-9ee8-0fcea766f7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installments'])[1]/preceding::span[2]</value>
+      <webElementGuid>6b654990-5350-488e-ab86-51ad80b135ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HR Loans Team']/parent::*</value>
+      <webElementGuid>08bf4563-0c6e-44b5-b163-d2b1719276f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[15]/td[2]/span</value>
+      <webElementGuid>e2e5a9f0-dbc9-4beb-a8b0-64c7ed3ff4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@name = 'x_responsible_approver' and (text() = 'HR Loans Team' or . = 'HR Loans Team')]</value>
+      <webElementGuid>f295b86f-6fe2-4b8c-be9e-f42797e7d622</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

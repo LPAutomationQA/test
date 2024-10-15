@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the DH have access to edit Recruitment - opening under their departments only</description>
+   <name>TC_Recruitment_09_Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2adc7e7-e36d-47e9-8be9-b6eb94470abe</testCaseGuid>
+</TestCaseEntity>

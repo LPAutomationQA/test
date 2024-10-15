@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_Expense_Verify that the DH can Reject request for other Department in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99137a0a-ffdb-497a-be5d-afad673cf84c</testCaseGuid>
+</TestCaseEntity>

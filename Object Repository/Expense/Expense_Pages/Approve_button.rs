@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Approve_button</name>
+   <tag></tag>
+   <elementGuidId>4f2143e3-ce4c-40bd-a83a-37ac4e836888</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Approve' or . = 'Approve')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;approve_expense_sheets&quot;] > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9bbce09d-4182-461c-a8e4-8864ff601e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+      <webElementGuid>b9ee36b2-c74b-444c-a897-e7286475bdf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_cannot_create o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_view o_xxl_form_view o_expense_sheet o_form_readonly&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_statusbar&quot;]/div[@class=&quot;o_statusbar_buttons&quot;]/button[@class=&quot;btn btn-primary o_expense_sheet_approve&quot;]/span[1]</value>
+      <webElementGuid>dcb1e5a0-85b5-42e8-a5e0-0fdede678ac2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit to Manager'])[1]/following::span[1]</value>
+      <webElementGuid>2001c1e5-19e9-4c8f-9d3b-0d5b5abe8bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::span[4]</value>
+      <webElementGuid>e0efd341-fdae-45c8-a5b6-6408824a9d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve By PM'])[1]/preceding::span[1]</value>
+      <webElementGuid>fa3f64b6-1ae9-4c9a-b507-93fa50e3e157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Journal Entries'])[1]/preceding::span[2]</value>
+      <webElementGuid>bfd42005-bf4f-40c4-bb36-1f54cf07b351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
+      <webElementGuid>972aa74c-647a-41a3-91af-c7015d48181d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>753d7f6f-41eb-46be-bcf3-a3c25218f8f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>8a25f955-2b2c-48d9-a010-ac3dd1012d3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

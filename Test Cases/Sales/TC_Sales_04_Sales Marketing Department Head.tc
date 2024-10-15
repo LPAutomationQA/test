@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the Sales &amp; Marketing Department Head can delete Quotation</description>
+   <name>TC_Sales_04_Sales Marketing Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f27e877a-9a75-4f10-9e58-8d5fb3f4ad24</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Analytic Tags_dropdown</name>
+   <tag></tag>
+   <elementGuidId>124f22ce-11ad-48cd-b260-269657061049</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[7]/div/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;analytic_tag_ids&quot;] > div.o_input_dropdown > input.o_input.ui-autocomplete-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3e235e85-0b0e-4c05-b32a-66a5ba598083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6a0999a0-6a72-4bc0-a4b9-10e1ac7db5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input ui-autocomplete-input</value>
+      <webElementGuid>e9732e20-ed11-4c31-a372-007bb67fdb27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>7603504e-7819-487a-b23b-2d533e0d8856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_1446&quot;)/div[@class=&quot;o_list_view o_list_optional_columns&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover table-striped o_list_table_ungrouped o_section_and_note_list_view&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row o_selected_row&quot;]/td[@class=&quot;o_data_cell o_field_cell o_many2many_tags_cell&quot;]/div[@class=&quot;o_field_many2manytags o_input o_field_widget&quot;]/div[@class=&quot;o_field_widget o_field_many2one&quot;]/div[@class=&quot;o_input_dropdown&quot;]/input[@class=&quot;o_input ui-autocomplete-input&quot;]</value>
+      <webElementGuid>af158dce-a6bd-4f13-831b-72c5b5afb69c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[18]</value>
+      <webElementGuid>953648c7-5f26-4a57-a487-60451b32e3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='o_field_input_1446']/div[2]/div/table/tbody/tr/td[7]/div/div/div/input</value>
+      <webElementGuid>587d7916-6abe-4c92-95cf-dd6b9f226d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/div/div/input</value>
+      <webElementGuid>2b78b623-538b-4445-a20b-ac87a03391e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>db032f32-a8b2-4aa3-95c3-cb70bb779fae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

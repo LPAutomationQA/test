@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Selected_date</name>
+   <tag></tag>
+   <elementGuidId>5a273cec-628e-403a-942e-169111ed8f23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[27]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.day.today</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c502ee35-994a-4a90-baf4-3c0fad82db70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>selectDay</value>
+      <webElementGuid>f1a25e4e-59cf-4d5f-b051-be5cd0d6095a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-day</name>
+      <type>Main</type>
+      <value>10/23/2023</value>
+      <webElementGuid>925da670-0058-4d99-a7a2-f7411828bf56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day today</value>
+      <webElementGuid>7f450727-3c2a-4969-b863-cb16bfc09a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>23</value>
+      <webElementGuid>24772ae1-a0ac-4229-a86c-e32d8924e65c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;bootstrap-datetimepicker-widget dropdown-menu usetwentyfour bottom&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;show&quot;]/div[@class=&quot;datepicker&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table table-sm&quot;]/tbody[1]/tr[4]/td[@class=&quot;day today&quot;]</value>
+      <webElementGuid>e035e3eb-d3aa-429d-9b5f-485a27f357b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[27]</value>
+      <webElementGuid>8b2465b4-f390-404b-a6b5-14f3fe11c223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[27]</value>
+      <webElementGuid>305676c6-1e92-43b6-9406-b5927977c58c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[1]/preceding::td[22]</value>
+      <webElementGuid>770a1c1e-4767-4ff9-8232-97c66f2fa5a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[1]/preceding::td[22]</value>
+      <webElementGuid>1b6418d3-bd4c-41f9-805b-9cc218443061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='23']/parent::*</value>
+      <webElementGuid>1d20f824-fe92-42be-958c-3bea43fb7f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[3]</value>
+      <webElementGuid>e8b64593-53e3-4f8d-958d-007ba8d408bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '23' or . = '23')]</value>
+      <webElementGuid>060273af-8232-4ca8-9e86-685dcfdcb9c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

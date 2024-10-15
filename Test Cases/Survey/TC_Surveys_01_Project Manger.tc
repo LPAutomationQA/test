@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Project Manger doesn’t have access to Surveys</description>
+   <name>TC_Surveys_01_Project Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f919ead0-b52f-47ca-be37-7cda855e6dc4</testCaseGuid>
+</TestCaseEntity>

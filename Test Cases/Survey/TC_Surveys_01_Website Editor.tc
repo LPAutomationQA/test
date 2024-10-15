@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that All Website Editor role doesn’t have access to Surveys</description>
+   <name>TC_Surveys_01_Website Editor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f833227-3c0a-4294-a32f-e7a9fa586db5</testCaseGuid>
+</TestCaseEntity>

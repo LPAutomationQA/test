@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Accounting_tab</name>
+   <tag></tag>
+   <elementGuidId>c1b5c3d1-4ad2-4277-9dee-7635d1defe8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '#' and (text() = '
+                            Accounting
+                        ' or . = '
+                            Accounting
+                        ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a.dropdown-toggle.o-no-caret.o_menu_header_lvl_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4556c45-7ee8-4df4-bf48-f81ba57d0d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>cc882da3-c001-439a-b201-b2e0d6dc5e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle o-no-caret o_menu_header_lvl_1</value>
+      <webElementGuid>96dda795-5849-4618-a072-9da7e311a63c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-xmlid</name>
+      <type>Main</type>
+      <value>account.menu_finance_entries</value>
+      <webElementGuid>b7077607-2a7d-47fc-9aae-613061bb97c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>911e3652-5313-4d40-940b-e309c44a24db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4959febe-d32f-4cc2-a7a6-c91cfd770682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5bc13962-c891-46b2-87f6-3283c3be63b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Accounting
+                        </value>
+      <webElementGuid>a6133796-074a-4ac1-bb76-b055cd5eeec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/header[1]/nav[@class=&quot;o_main_navbar&quot;]/ul[@class=&quot;o_menu_sections&quot;]/li[4]/a[@class=&quot;dropdown-toggle o-no-caret o_menu_header_lvl_1&quot;]</value>
+      <webElementGuid>1f1b242a-2fd3-4f0a-9898-f595e98a0540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Accounting')])[2]</value>
+      <webElementGuid>1bb32ae1-bd82-4dc5-aeca-9abc01d7f4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendors'])[2]/following::a[1]</value>
+      <webElementGuid>330e9309-c339-4b6f-868e-00906df94e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[2]/following::a[2]</value>
+      <webElementGuid>c7a5cbc2-4b4c-497c-b762-d5a98e3f5902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miscellaneous'])[1]/preceding::a[1]</value>
+      <webElementGuid>35d2f602-ee4d-41d8-b077-c8dbc57a5424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journal Entries'])[1]/preceding::a[1]</value>
+      <webElementGuid>3149bf3a-e945-43e6-9981-24362b378a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[18]</value>
+      <webElementGuid>c77171f2-2c8a-4a33-a113-740ed9cf9107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>4a37189e-bfe8-436d-ab25-5fd58f150849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                            Accounting
+                        ' or . = '
+                            Accounting
+                        ')]</value>
+      <webElementGuid>b5930ba4-f61b-4f7e-aacd-9935d91b7e25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

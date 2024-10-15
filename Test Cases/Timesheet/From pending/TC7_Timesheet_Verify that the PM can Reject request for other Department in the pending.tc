@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7_Timesheet_Verify that the PM can Reject request for other Department in the pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e660a55b-cef8-47f3-980f-2bbcc8d98ec6</testCaseGuid>
+</TestCaseEntity>

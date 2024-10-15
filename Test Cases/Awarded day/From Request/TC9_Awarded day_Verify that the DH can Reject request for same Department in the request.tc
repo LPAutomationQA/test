@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC9_Awarded day_Verify that the DH can Reject request for same Department in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d80f580-d6a8-4f1d-af9d-f1f8588dec6e</testCaseGuid>
+</TestCaseEntity>

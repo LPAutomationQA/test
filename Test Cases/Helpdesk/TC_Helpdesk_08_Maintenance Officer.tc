@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Maintenance Officer doesn’t have access to help desk module</description>
+   <name>TC_Helpdesk_08_Maintenance Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8f4c81c-1463-4ca1-9f12-bc7a85445888</testCaseGuid>
+</TestCaseEntity>

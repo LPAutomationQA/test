@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Record</name>
+   <tag></tag>
+   <elementGuidId>86a156b1-ca62-4455-913b-5e0497486199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.o_data_cell.o_field_cell.o_list_char.text-bf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0e6b960c-7905-4398-bb61-6eb9567be83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_data_cell o_field_cell o_list_char text-bf</value>
+      <webElementGuid>9d4b2d83-d5d3-43a7-a4b4-0547d81f446f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>64bda07b-08ab-42dd-addc-7a2ca8344294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>INV/00007/102023</value>
+      <webElementGuid>3f80d9c0-438e-48a1-ba6a-8aff458342e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INV/00007/102023</value>
+      <webElementGuid>4beb0c38-fa20-46fd-bbd7-5417cfce2b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_list_view o_list_optional_columns&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover table-striped o_list_table_ungrouped&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row&quot;]/td[@class=&quot;o_data_cell o_field_cell o_list_char text-bf&quot;]</value>
+      <webElementGuid>10394999-fb2b-4339-9c78-0dfb3b7c85d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::td[1]</value>
+      <webElementGuid>005712e7-109a-49d1-81a8-853a76022cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Status'])[2]/following::td[2]</value>
+      <webElementGuid>e242eb82-80c0-46a6-a343-41a4590d6c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect Arabia LLC'])[1]/preceding::td[1]</value>
+      <webElementGuid>11154925-2d60-4544-ab6c-cfc6633f3645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[3]</value>
+      <webElementGuid>1263ae21-1589-48e4-a0d0-9aff29640b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='INV/00007/102023']/parent::*</value>
+      <webElementGuid>a5cd3307-0fb6-44ea-9949-eb959bce1b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>40e724d1-31ea-4d4b-8c2f-2fda013b7370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@title = 'INV/00007/102023' and (text() = 'INV/00007/102023' or . = 'INV/00007/102023')]</value>
+      <webElementGuid>594bf27e-32f6-4a2c-b783-e66531ee16fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

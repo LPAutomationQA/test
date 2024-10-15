@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that CRM Manager role doesn’t have access to help desk module</description>
+   <name>TC_Helpdesk_08_CRM Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf64faad-f158-4ccc-82d2-60238b01bf57</testCaseGuid>
+</TestCaseEntity>

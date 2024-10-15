@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Chief Accountant can add/edit/delete payments.</description>
+   <name>TC_Accounting_11_Chief Accountant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7a86020-a078-4b97-b684-6698c93ee866</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Surveys</name>
+   <tag></tag>
+   <elementGuidId>60f45bd7-e01b-4e67-80aa-ebe97ced2d6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Surveys' or . = 'Surveys')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#result_app_18 > div.o_app_icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ed763b2-3bd7-4502-88b0-c93e83511c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_app_icon</value>
+      <webElementGuid>ed3fe6de-6171-481f-a837-14ee107270e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_app_18&quot;)/div[@class=&quot;o_app_icon&quot;]</value>
+      <webElementGuid>d316dee6-44b0-4095-b28b-1823efc6de30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='result_app_18']/div</value>
+      <webElementGuid>b3c087f9-19d8-4be7-a913-300b668b324e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[19]/div</value>
+      <webElementGuid>11413441-edd9-476a-8724-619274e749e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

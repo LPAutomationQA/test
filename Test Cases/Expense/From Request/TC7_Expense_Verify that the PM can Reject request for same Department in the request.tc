@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7_Expense_Verify that the PM can Reject request for same Department in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>022ddba8-6ece-4bcd-9668-7ccc658b79cf</testCaseGuid>
+</TestCaseEntity>

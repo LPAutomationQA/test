@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_TimeOff_Verify that the the HR reject in the the pending request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c1bb53c-bcf7-4bee-b1f2-74f734f47b6d</testCaseGuid>
+</TestCaseEntity>

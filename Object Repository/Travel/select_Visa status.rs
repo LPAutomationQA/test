@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Visa status</name>
+   <tag></tag>
+   <elementGuidId>028fb8f1-6e30-4c2c-ba82-6a1fe62fcf22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='x_studio_visa_status']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#o_field_input_861</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>aa65789d-e522-4ccb-b403-0d374b9ccc9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input o_field_widget o_required_modifier</value>
+      <webElementGuid>0c35b0af-96dc-4efc-ab0d-8e24da90474e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>x_studio_visa_status</value>
+      <webElementGuid>dbeac3aa-b5a0-483a-b1f8-421c3b5b7720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>o_field_input_861</value>
+      <webElementGuid>23300389-0ca6-4f24-9f8e-04adf962a65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ResidentVisaNot Required</value>
+      <webElementGuid>6dc1064a-960d-400b-b918-7fed7eb99a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_861&quot;)</value>
+      <webElementGuid>7095bb79-d2e2-4c65-b374-d8b0b0e25044</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='o_field_input_861']</value>
+      <webElementGuid>425c8961-d78e-4727-a003-8cc3ea31a8b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visa Status'])[1]/following::select[1]</value>
+      <webElementGuid>8429b566-17dd-4427-b94a-9e3bb7b64217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/following::select[1]</value>
+      <webElementGuid>dcfa013a-d5ac-4d55-9a93-1d092ba5cfa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visa'])[2]/preceding::select[1]</value>
+      <webElementGuid>8052088f-8378-4514-8446-920cf67c1ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Information'])[1]/preceding::select[1]</value>
+      <webElementGuid>d7bb60d4-158d-4513-ad19-f51c845147c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[2]/select</value>
+      <webElementGuid>a1f0a0a0-d974-4d3d-a71c-67549ac64e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'x_studio_visa_status' and @id = 'o_field_input_861' and (text() = 'ResidentVisaNot Required' or . = 'ResidentVisaNot Required')]</value>
+      <webElementGuid>9f40311a-e2a6-4adb-98b7-03b99c80b763</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can change invoices status .</description>
+   <name>TC_Accounting_19_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1364e3e-7be3-40ac-b30a-266f0c9e3034</testCaseGuid>
+</TestCaseEntity>

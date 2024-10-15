@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5_Travel_Verify that the DH full work flow for other project working in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c79f68da-c82b-4dcf-a510-e3d3e301143a</testCaseGuid>
+</TestCaseEntity>

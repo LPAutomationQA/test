@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reject Selected</name>
+   <tag></tag>
+   <elementGuidId>19a975d3-a050-4a6d-b53d-9a5f3c596259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Reject Selected')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>886af658-7257-4320-8deb-879865e3c312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c1f3fa41-cee2-4330-a49b-61d8463f819e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitemcheckbox</value>
+      <webElementGuid>14beaa2c-ecac-432c-a675-6e13c45b4adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>b6e490c7-8f08-4a94-8c7c-4143245c59cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>f3383db0-aaf1-4ffe-90d2-3aaa8deced5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reject Selected</value>
+      <webElementGuid>7e5f4da8-5bc9-4d11-83c6-b9246677ca07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_cannot_create o_view_controller&quot;]/div[@class=&quot;o_control_panel&quot;]/div[@class=&quot;o_cp_bottom&quot;]/div[@class=&quot;o_cp_bottom_left&quot;]/div[@class=&quot;o_cp_action_menus&quot;]/div[@class=&quot;btn-group o_dropdown show&quot;]/ul[@class=&quot;o_dropdown_menu dropdown-menu show&quot;]/li[@class=&quot;o_menu_item&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>b1679dc9-b63d-4a6f-9303-955349445e04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reject Selected')]</value>
+      <webElementGuid>814f344d-51ff-4f7d-83f8-ea8e929d6865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::a[3]</value>
+      <webElementGuid>4ff7fbec-fbef-4414-8aeb-bdbba20c4bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discard'])[1]/following::a[3]</value>
+      <webElementGuid>b89b64ee-5d58-4550-b908-3b7e750901d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::a[1]</value>
+      <webElementGuid>e23e2384-a31a-4bc0-9533-590bd5ba926c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group By'])[1]/preceding::a[1]</value>
+      <webElementGuid>810ceb2a-5305-416a-888d-107175616616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reject Selected']/parent::*</value>
+      <webElementGuid>9633528d-48f3-4d7b-86f3-5c5cbe2243ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[17]</value>
+      <webElementGuid>36e3a853-5fad-4bc0-8991-e0098a1b9874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]/a</value>
+      <webElementGuid>94e07a88-40ab-4951-90da-120a1f92cc5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Reject Selected' or . = 'Reject Selected')]</value>
+      <webElementGuid>f34bb0f0-554d-4fe5-8dfb-3560f9eea15b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

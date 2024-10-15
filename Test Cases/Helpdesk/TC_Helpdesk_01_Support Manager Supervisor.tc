@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Support Manager Supervisor can view all tickets.</description>
+   <name>TC_Helpdesk_01_Support Manager Supervisor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fada104a-278a-4bcb-964c-ea061720cee1</testCaseGuid>
+</TestCaseEntity>

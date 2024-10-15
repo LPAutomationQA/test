@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Partner Ledger_link</name>
+   <tag></tag>
+   <elementGuidId>a811182e-fdaf-417c-a5ea-1506178d9d5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner Reports'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7fac3a76-c36f-42e4-bcad-d4dcef6f10a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>a176da1d-8b6e-4eea-b4f5-e03e892e85eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#menu_id=311&amp;action=465</value>
+      <webElementGuid>8082db73-e6c9-4062-85d9-1c95f017a983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>311</value>
+      <webElementGuid>434732a4-7d4c-45cf-b633-b388b62bf170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action-model</name>
+      <type>Main</type>
+      <value>ir.actions.client</value>
+      <webElementGuid>5adf9d7e-4071-443e-bab9-1da2bfb3ff24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action-id</name>
+      <type>Main</type>
+      <value>465</value>
+      <webElementGuid>482ed67b-3955-4f11-b78e-1523498f1e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-xmlid</name>
+      <type>Main</type>
+      <value>account_reports.menu_action_account_report_partner_ledger</value>
+      <webElementGuid>994b0d03-d67e-455f-b78d-8f2ed8b0223e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item o_menu_entry_lvl_3</value>
+      <webElementGuid>3d2a293b-f844-4569-8ce5-ee7b97650c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>e0c5e29f-9730-4d03-b7bf-e5f5109c6491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#o_navbar_collapse.in</value>
+      <webElementGuid>057de18d-02b0-46fd-9cef-a7c71d5e2b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Partner Ledger
+            </value>
+      <webElementGuid>fb294122-1e92-4d7d-b147-1d76ca180a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/header[1]/nav[@class=&quot;o_main_navbar&quot;]/ul[@class=&quot;o_menu_sections&quot;]/li[@class=&quot;show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item o_menu_entry_lvl_3&quot;]</value>
+      <webElementGuid>e8bd74c4-ba47-4dd5-9461-9fb11883f7d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner Reports'])[1]/following::a[1]</value>
+      <webElementGuid>63a4e6f3-4e96-446d-b757-f98e6ba5a5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed Assets'])[1]/following::a[1]</value>
+      <webElementGuid>bdb9aec3-4ce8-40ff-81ac-391ae39e219e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aged Receivable'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d90a09e-4eac-4262-9497-5c9862ae1c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#menu_id=311&amp;action=465')]</value>
+      <webElementGuid>e104627d-02d0-4da3-b775-8211beea4385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/a[6]</value>
+      <webElementGuid>0d68dbd2-ad9b-42be-92f8-981ca5a236a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#menu_id=311&amp;action=465' and (text() = '
+                Partner Ledger
+            ' or . = '
+                Partner Ledger
+            ')]</value>
+      <webElementGuid>4e1c8d04-3699-4461-834e-56f9023d489f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

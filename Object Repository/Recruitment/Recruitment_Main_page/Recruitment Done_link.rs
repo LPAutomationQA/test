@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Recruitment Done_link</name>
+   <tag></tag>
+   <elementGuidId>52e04000-5a1f-439d-a189-eb0272c786ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Recruitment Done')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a7472650-38ae-47c2-b592-f350fbc02977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>modifiers</name>
+      <type>Main</type>
+      <value>{}</value>
+      <webElementGuid>fb473138-56b9-4647-9c16-547af3b7a20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>set_recruit</value>
+      <webElementGuid>45a7db75-b089-4cda-855c-22a2ca5acd0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>object</value>
+      <webElementGuid>4cf3e9fb-bfa5-496d-808e-b98224da5e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>675edf0f-68a8-4fbc-88cb-c5fc19e1b991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> oe_kanban_action oe_kanban_action_a</value>
+      <webElementGuid>b8443903-107d-4296-ab62-eff51daa2ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recruitment Done</value>
+      <webElementGuid>6814fae8-df57-4c08-a20c-60e0964cce29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_kanban_view oe_background_grey o_kanban_dashboard o_hr_recruitment_kanban ui-sortable o_kanban_grouped&quot;]/div[@class=&quot;o_kanban_group ui-sortable&quot;]/div[@class=&quot;oe_kanban_color_0 o_kanban_record o_dropdown_open&quot;]/div[@class=&quot;o_kanban_card_manage_pane dropdown-menu&quot;]/div[@class=&quot;o_kanban_card_manage_section&quot;]/div[1]/a[@class=&quot;oe_kanban_action oe_kanban_action_a&quot;]</value>
+      <webElementGuid>d1c4cffd-993f-4ec3-9520-a32c976f2113</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Recruitment Done')]</value>
+      <webElementGuid>a4a22700-6ea9-4c96-bfa6-54c701d74c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::a[2]</value>
+      <webElementGuid>570e3ad4-4c55-4075-8462-c12a4e139963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Description'])[1]/following::a[2]</value>
+      <webElementGuid>8c40bbc0-29ce-4105-91a2-62b9d139f95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new job 13:08:2023'])[1]/preceding::a[15]</value>
+      <webElementGuid>9fd840ee-6671-4241-befd-8f29d7eae82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recruitment Done']/parent::*</value>
+      <webElementGuid>6e4a92cf-0dc4-4292-972a-9f8a0081bc62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[35]</value>
+      <webElementGuid>c7ffbb80-c84d-4c22-9e72-671f8040ba19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/a</value>
+      <webElementGuid>31cf087a-f493-4d01-9e73-76fd80c87eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Recruitment Done' or . = 'Recruitment Done')]</value>
+      <webElementGuid>1dde28a2-2ddd-4b67-8193-9ab639bfb803</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

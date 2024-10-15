@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the Sales &amp; Marketing Department Head can edit new Quotation</description>
+   <name>TC_Sales_07_Sales Marketing Department Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2322361-e71c-4dfc-a0c7-a1487bce834a</testCaseGuid>
+</TestCaseEntity>

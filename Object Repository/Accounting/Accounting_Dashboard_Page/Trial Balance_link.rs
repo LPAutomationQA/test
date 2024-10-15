@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Trial Balance_link</name>
+   <tag></tag>
+   <elementGuidId>9de532d4-05c3-4a01-86be-f835bacc43e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger'])[2]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>80fe1386-5933-4ab1-b080-0c69c097b5b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>c416285d-d292-4c01-bcb5-c3c9315c827b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#menu_id=315&amp;action=464</value>
+      <webElementGuid>3f5a7ca8-b174-428a-b1fa-468fc97bf184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>315</value>
+      <webElementGuid>b2dfee07-c020-4d97-90e1-2390e45c2fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action-model</name>
+      <type>Main</type>
+      <value>ir.actions.client</value>
+      <webElementGuid>74a55b47-0da5-4f35-b6fb-928f9decc7bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action-id</name>
+      <type>Main</type>
+      <value>464</value>
+      <webElementGuid>6ff7986f-d590-40cb-b858-74325dc10811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-xmlid</name>
+      <type>Main</type>
+      <value>account_reports.menu_action_account_report_coa</value>
+      <webElementGuid>38354389-5503-4704-bf4e-0baefebdacf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item o_menu_entry_lvl_3</value>
+      <webElementGuid>46365aee-c3f8-4a0e-9362-f90a2de50d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>e5f35bac-9ad4-41ac-81b5-de9c889730aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#o_navbar_collapse.in</value>
+      <webElementGuid>7eb84f6b-c889-4048-a633-afaf36eaae2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Trial Balance
+            </value>
+      <webElementGuid>ff42887f-5641-4204-8b13-0636548396c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/header[1]/nav[@class=&quot;o_main_navbar&quot;]/ul[@class=&quot;o_menu_sections&quot;]/li[@class=&quot;show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item o_menu_entry_lvl_3&quot;]</value>
+      <webElementGuid>5decbb75-9576-4620-bc1d-69f73154bbc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger'])[2]/following::a[1]</value>
+      <webElementGuid>5438c1b3-878f-4b62-8336-2d91b775ecb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit Reports'])[1]/following::a[2]</value>
+      <webElementGuid>88dd9045-6168-4051-8427-b325d5b0959e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consolidated Journals'])[1]/preceding::a[1]</value>
+      <webElementGuid>29a48abd-1051-427a-aadf-9923eb896fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#menu_id=315&amp;action=464')]</value>
+      <webElementGuid>416d6dc3-e3e5-4db3-8e2a-88ab52129fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/a[10]</value>
+      <webElementGuid>4501039d-b874-4e54-bff5-f585c5d78fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#menu_id=315&amp;action=464' and (text() = '
+                Trial Balance
+            ' or . = '
+                Trial Balance
+            ')]</value>
+      <webElementGuid>45a0ae63-7fcb-4f3f-a636-80f9bedb6941</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Loans_Verify that the DH full work flow working in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58c2da26-4cc6-428a-bb16-5b8acdd4d651</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7_TimeOff_Verify that the the Director reject the pending request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c1a7433-6dd4-4615-8134-8f019dbea26a</testCaseGuid>
+</TestCaseEntity>

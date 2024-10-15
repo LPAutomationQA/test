@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Analytical Account Group_dropdown</name>
+   <tag></tag>
+   <elementGuidId>7590c893-49ec-47e8-b311-81005e63488f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[5]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;analytic_account_group_id&quot;] > div.o_input_dropdown > input.o_input.ui-autocomplete-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>49bfd49f-7912-4a1d-80cc-de3e9f7344da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3c20e3da-814f-407c-ad3a-0df8d52fd6be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input ui-autocomplete-input</value>
+      <webElementGuid>42ee8f84-aa8f-45da-90a6-a9f045b1fd6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>769cd57b-b9bb-4104-b580-a8ac55ee94cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_1815&quot;)/div[@class=&quot;o_list_view o_list_optional_columns&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover table-striped o_list_table_ungrouped o_section_and_note_list_view&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row o_selected_row&quot;]/td[@class=&quot;o_data_cell o_field_cell o_list_many2one o_required_modifier&quot;]/div[@class=&quot;o_field_widget o_field_many2one o_required_modifier&quot;]/div[@class=&quot;o_input_dropdown&quot;]/input[@class=&quot;o_input ui-autocomplete-input&quot;]</value>
+      <webElementGuid>e520705d-70a9-48ec-9c50-e1a7842eca9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[16]</value>
+      <webElementGuid>df49080e-9082-465e-8147-e9d6365121df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='o_field_input_1815']/div[2]/div/table/tbody/tr/td[5]/div/div/input</value>
+      <webElementGuid>2daf159e-dcba-4322-8d6e-f285ea2bf091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/div/input</value>
+      <webElementGuid>d542c0dd-6122-4132-b7ab-7ec07c245bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>e45b6039-c5e0-42f5-b5f1-47275a78a3e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

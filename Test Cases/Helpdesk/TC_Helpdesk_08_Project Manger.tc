@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that PM role doesn’t have access to help desk module</description>
+   <name>TC_Helpdesk_08_Project Manger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71ee4fdb-9433-4aec-8c57-0b10a3a2492a</testCaseGuid>
+</TestCaseEntity>

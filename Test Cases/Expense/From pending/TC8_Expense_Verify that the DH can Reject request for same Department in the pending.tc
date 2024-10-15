@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_Expense_Verify that the DH can Reject request for same Department in the pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe7f9895-063d-4fe2-98bd-1f72da72f797</testCaseGuid>
+</TestCaseEntity>

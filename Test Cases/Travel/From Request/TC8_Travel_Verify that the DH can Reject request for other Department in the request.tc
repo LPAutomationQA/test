@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_Travel_Verify that the DH can Reject request for other Department in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f345d388-c5ef-41e6-919f-8c4fc9b105f3</testCaseGuid>
+</TestCaseEntity>

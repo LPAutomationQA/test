@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Awarded day_Verify that the Director full work flow for same project working in pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77a53764-0c64-4736-ad75-972048ac5815</testCaseGuid>
+</TestCaseEntity>

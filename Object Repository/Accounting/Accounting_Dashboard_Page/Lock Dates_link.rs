@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lock Dates_link</name>
+   <tag></tag>
+   <elementGuidId>66a0800d-2629-4898-978e-4185de338f96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Reconciliation'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00c30422-1f0d-44bb-981d-5c7ed636a073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>e438c96d-96d3-4502-b1e9-fa9367d59638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#menu_id=304&amp;action=446</value>
+      <webElementGuid>d5abeed8-5f5f-4eda-aaac-c847b2c8d5ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>304</value>
+      <webElementGuid>387fc914-9020-46da-98b6-c44490475f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action-model</name>
+      <type>Main</type>
+      <value>ir.actions.act_window</value>
+      <webElementGuid>5b4c65dd-7eca-4fb9-8d1b-bb60d2d47388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action-id</name>
+      <type>Main</type>
+      <value>446</value>
+      <webElementGuid>7762c211-3ac7-40f5-8afd-65dc57e2b734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-xmlid</name>
+      <type>Main</type>
+      <value>account_accountant.menu_action_change_lock_date</value>
+      <webElementGuid>f42770e9-d24e-4f53-88ce-8fe1393a10f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item o_menu_entry_lvl_3</value>
+      <webElementGuid>432d4348-64c3-4d9d-9e83-abc34d526cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>9dcd28ff-df2f-47ab-9519-3ef31d37c730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#o_navbar_collapse.in</value>
+      <webElementGuid>79c3d16c-2252-49d8-a050-20ff356bb6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Lock Dates
+            </value>
+      <webElementGuid>7b02d2e7-da7e-40e3-b219-defa739352b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/header[1]/nav[@class=&quot;o_main_navbar&quot;]/ul[@class=&quot;o_menu_sections&quot;]/li[@class=&quot;show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item o_menu_entry_lvl_3&quot;]</value>
+      <webElementGuid>a8e1530b-0ce0-4199-bf9e-cdba07289590</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reconciliation'])[1]/following::a[1]</value>
+      <webElementGuid>1e023a3c-ab36-44eb-9245-a16392cf6048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::a[2]</value>
+      <webElementGuid>0ee017a9-d7f4-4877-aafe-cb4070545cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generic Statements'])[1]/preceding::a[2]</value>
+      <webElementGuid>4569600a-aa64-4c25-a664-ccc8ae91204f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#menu_id=304&amp;action=446')]</value>
+      <webElementGuid>295672d8-ba99-4895-8a39-955379fea5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[15]</value>
+      <webElementGuid>fb9f4b60-a94a-47ce-8fc3-aa29989a7ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#menu_id=304&amp;action=446' and (text() = '
+                Lock Dates
+            ' or . = '
+                Lock Dates
+            ')]</value>
+      <webElementGuid>c8eb8398-a988-4534-9008-41ee05038dcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

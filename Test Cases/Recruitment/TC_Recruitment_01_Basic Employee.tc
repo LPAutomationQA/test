@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Basic Employee doesn't have access to Recruitment.</description>
+   <name>TC_Recruitment_01_Basic Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbbf8db7-a347-4cf5-b795-e392aa685081</testCaseGuid>
+</TestCaseEntity>

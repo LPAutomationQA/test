@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Marketing Officer doesn’t have access to Recruitment</description>
+   <name>TC_Recruitment_01_Marketing Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>807b6248-789e-4405-8ae5-854ac59efec9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Awarded day_Verify that the employee full work flow for same project working in pending</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26e0dfc9-dcfa-45b2-9e33-13ab01324436</testCaseGuid>
+</TestCaseEntity>

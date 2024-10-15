@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Complaints Manager role doesn’t have access to help desk module</description>
+   <name>TC_Helpdesk_08_Complaints Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb93ed95-5a6a-47bb-a586-75d0c81cdb1e</testCaseGuid>
+</TestCaseEntity>

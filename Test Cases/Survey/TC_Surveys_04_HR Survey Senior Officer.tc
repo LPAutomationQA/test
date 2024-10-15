@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the HR Mange can edit Surveys</description>
+   <name>TC_Surveys_04_HR Survey Senior Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b44dafad-a6c1-45ca-aa08-66eb2f29438c</testCaseGuid>
+</TestCaseEntity>

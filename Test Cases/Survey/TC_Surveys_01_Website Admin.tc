@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that All Website Admin role doesn’t have access to Surveys</description>
+   <name>TC_Surveys_01_Website Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94b55c0c-6ad9-47aa-bed3-a226eb154ffa</testCaseGuid>
+</TestCaseEntity>

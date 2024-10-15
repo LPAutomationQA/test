@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Website Admin doesn’t have access to sale module</description>
+   <name>TC_Sales_17_Website Editor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>219ea596-51af-4067-b60a-27787ec41e62</testCaseGuid>
+</TestCaseEntity>

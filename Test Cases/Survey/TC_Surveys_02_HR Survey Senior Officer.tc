@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vetify that the HR Mange have access to Survey module</description>
+   <name>TC_Surveys_02_HR Survey Senior Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eab43d86-55f5-4dd4-a1c1-4b33a631f3e1</testCaseGuid>
+</TestCaseEntity>

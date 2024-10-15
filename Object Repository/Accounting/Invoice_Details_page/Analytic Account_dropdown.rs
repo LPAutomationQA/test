@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Analytic Account_dropdown</name>
+   <tag></tag>
+   <elementGuidId>cf8307ea-3446-43fc-b939-28e074f04739</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[6]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;analytic_account_id&quot;] > div.o_input_dropdown > input.o_input.ui-autocomplete-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fd1c8707-bf39-44e4-bc29-29c72fc1b459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0d88e5ae-5ad7-4cdc-abe3-279b89233e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_input ui-autocomplete-input</value>
+      <webElementGuid>1f455e8f-ba74-4e91-818a-bd46df0ad987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>c222d5bc-b582-4548-838d-fc4c78768726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_2006&quot;)/div[@class=&quot;o_list_view o_list_optional_columns&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover table-striped o_list_table_ungrouped o_section_and_note_list_view&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row o_selected_row&quot;]/td[@class=&quot;o_data_cell o_field_cell o_list_many2one o_required_modifier&quot;]/div[@class=&quot;o_field_widget o_field_many2one o_required_modifier&quot;]/div[@class=&quot;o_input_dropdown&quot;]/input[@class=&quot;o_input ui-autocomplete-input&quot;]</value>
+      <webElementGuid>0e658bfb-6470-4807-bb35-6eb9963fd44d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[17]</value>
+      <webElementGuid>724b4db2-6318-400f-9a76-9c4d20b07e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='o_field_input_2006']/div[2]/div/table/tbody/tr/td[6]/div/div/input</value>
+      <webElementGuid>e9994c76-e0dc-4c19-a9da-2e753ce3f0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div/input</value>
+      <webElementGuid>1130d6c3-35ce-4c24-ba55-ba2dd4b7e44a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>a0020288-6a7e-48ba-934c-332f95d2d1ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Recycle Bin</name>
+   <tag></tag>
+   <elementGuidId>51bb04b2-0c6c-4232-a209-fecfc8b972b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='result_app_20']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#result_app_20 > div.o_app_icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28d372c5-d7d8-451f-867e-2d9cfecadbd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_app_icon</value>
+      <webElementGuid>056b0221-8afc-4718-bfee-04f5efdb58f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_app_20&quot;)/div[@class=&quot;o_app_icon&quot;]</value>
+      <webElementGuid>699e668a-45e5-4cf4-9646-f53c7bcc9cd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='result_app_20']/div</value>
+      <webElementGuid>f8eb9285-4860-47e4-a898-92bdfc29ab9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[21]/div</value>
+      <webElementGuid>d94acda0-8164-4ba7-88fb-0c7c669ebf18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

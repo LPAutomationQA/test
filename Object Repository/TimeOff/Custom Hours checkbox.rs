@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Custom Hours checkbox</name>
+   <tag></tag>
+   <elementGuidId>8a01276c-646e-4f06-8d68-2a59c391e843</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;request_unit_hours&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@name='request_unit_hours']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28303b9e-488e-4381-8edd-35c3b6197866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control custom-checkbox o_field_boolean o_field_widget ml-5</value>
+      <webElementGuid>fe699566-fd5e-4078-9af8-c242e3523bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>request_unit_hours</value>
+      <webElementGuid>130ee1b8-b4e1-4bc7-9a8b-513335009488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​</value>
+      <webElementGuid>7b790dfe-a42b-4345-8db9-92126f9bc8f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_view o_xxl_form_view o_form_editable&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;clearfix position-relative o_form_sheet&quot;]/div[@class=&quot;o_group&quot;]/table[@class=&quot;o_group o_inner_group o_group_col_6&quot;]/tbody[1]/tr[1]/td[2]/div[1]/div[@class=&quot;o_row o_row_readonly oe_edit_only&quot;]/div[@class=&quot;custom-control custom-checkbox o_field_boolean o_field_widget ml-5&quot;]</value>
+      <webElementGuid>19f83926-141d-427f-a196-e1cba53dedf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@name='request_unit_hours']</value>
+      <webElementGuid>7cdb7af8-3afc-4301-8830-1e3b1968714d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Half Day'])[1]/following::div[1]</value>
+      <webElementGuid>4a15bee1-652a-435b-bd6f-01429d7ff1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[1]</value>
+      <webElementGuid>faf10e37-30bb-4320-bce4-dba7bdbe3659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Hours'])[1]/preceding::div[1]</value>
+      <webElementGuid>de429738-fa11-4e85-87a4-e0f4f8850d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div[2]/div[2]</value>
+      <webElementGuid>724d3a41-abc6-4ba1-9361-c1d24155b312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@name = 'request_unit_hours' and (text() = '​' or . = '​')]</value>
+      <webElementGuid>91b0e567-4beb-4717-8235-d1fa167c2470</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

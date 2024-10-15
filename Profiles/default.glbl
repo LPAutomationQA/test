@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Home page URL</description>
+      <initValue>'https://leading-point-ltd-erp-leading-point-erp-stg-12947758.dev.odoo.com/web#cids=2&amp;home=\r\n'</initValue>
+      <name>Homepage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>All loans url</description>
+      <initValue>'https://leading-point-ltd-erp-leading-point-erp-stg-12947758.dev.odoo.com/web#action=767&amp;model=x_loan&amp;view_type=kanban&amp;cids=2&amp;menu_id=414\r\n'</initValue>
+      <name>Allloans</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

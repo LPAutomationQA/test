@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Support Manager Supervisor can  create a ticket and change tickiet status</description>
+   <name>TC_Helpdesk_03_Support Manager Supervisor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0efa2ce3-6c71-4628-88a9-2d677cfdccff</testCaseGuid>
+</TestCaseEntity>

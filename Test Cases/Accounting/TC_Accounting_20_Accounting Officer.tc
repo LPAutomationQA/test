@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Accounting Officer can change payments status .</description>
+   <name>TC_Accounting_20_Accounting Officer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5197d73d-02a3-4a01-bcb3-ef47e7e32da4</testCaseGuid>
+</TestCaseEntity>

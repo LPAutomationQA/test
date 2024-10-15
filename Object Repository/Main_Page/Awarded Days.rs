@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Awarded Days</name>
+   <tag></tag>
+   <elementGuidId>046e6d3f-b8c0-4c7f-abc1-98dc64dfa5cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#result_app_10 > div.o_app_icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='o_caption' and text()='Awarded Days']&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>015ac2f6-6748-4977-8eaf-72d20a66c54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_app_icon</value>
+      <webElementGuid>b21bba82-8ddb-4714-b324-13de8e35cf89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_app_10&quot;)/div[@class=&quot;o_app_icon&quot;]</value>
+      <webElementGuid>1d66e629-8c5f-47b5-839b-1727515dc0fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='result_app_10']/div</value>
+      <webElementGuid>be82883e-5dd9-41de-968b-542f1bc01455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[11]/div</value>
+      <webElementGuid>b0f5004f-1317-4286-87c3-9527d2b97f75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

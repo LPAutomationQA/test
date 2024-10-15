@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_TimeOff_Verify that the the SH full fow is working in the request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25f345e4-fa27-459d-9ed2-e270ead2bf5b</testCaseGuid>
+</TestCaseEntity>

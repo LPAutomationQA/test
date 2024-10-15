@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Analytic Tags</name>
+   <tag></tag>
+   <elementGuidId>134fbbb5-b7e0-4585-95a3-0d42d2f99167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[18]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.o_data_cell.o_field_cell.o_many2many_tags_cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e4319804-bd1a-4551-81f0-3c09bf616c55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_data_cell o_field_cell o_many2many_tags_cell</value>
+      <webElementGuid>e1af629f-bd4a-45d7-86c6-a9962b581b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b17e643f-55e9-4e1f-adf4-60abf92d71cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;o_field_input_2006&quot;)/div[@class=&quot;o_list_view o_list_optional_columns&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover table-striped o_list_table_ungrouped o_section_and_note_list_view&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row o_selected_row&quot;]/td[@class=&quot;o_data_cell o_field_cell o_many2many_tags_cell&quot;]</value>
+      <webElementGuid>4f3de721-d75e-4518-af42-12e57dfeb490</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[18]</value>
+      <webElementGuid>75009d32-0dd0-4c94-bdc4-cf9d1a67f7f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//div[@id='o_field_input_1032']/div[2]/div/table/tbody/tr/td[7]/div/div/div/input</value>
+      <webElementGuid>18bdda3a-45d3-4fe5-9742-b4957bb486cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>c71d25f7-518d-455c-b926-729756e2048e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/div/div/input</value>
+      <webElementGuid>28cc2851-acb6-4a4c-aa3e-f220ea089413</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
